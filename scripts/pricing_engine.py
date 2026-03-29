@@ -122,6 +122,23 @@ class PricingEngine:
         variant = pkg['variants'][variant_name]
         pricing = {}
 
+        # Collect all services from 'services' or 'days'
+        all_services = []
+        if 'services' in variant:
+            all_services.extend(variant['services'])
+        if 'days' in variant:
+            for day in variant['days']:
+                if 'services' in day:
+                    all_services.extend(day['services'])
+
+        # Handle vehicle_cost for private tours
+        vehicle_cost_total = 0
+        if 'vehicle_cost' in variant and variant['vehicle_cost'] is not None:
+            vc = variant['vehicle_cost']
+            vc_rate = float(vc.get('rate', 0))
+            vc_cur = vc.get('currency', target_cur)
+            vehicle_cost_total = self.get_exchange_rate(vc_cur, target_cur) * vc_rate
+
         seasons = ['winter', 'summer']
         if pkg.get('winter_only'):
             seasons = ['winter']
@@ -147,17 +164,12 @@ class PricingEngine:
                         val = h.get(f'rate_{star}star')
                         json_rate = float(val) if val is not None else 0.0
                         div = 2.0 if h.get('rate_type') == 'PI' else 1.0
-                        # If JSON rate is total for stay, we use it as is (divided by 2 if PI)
-                        # We assume JSON rate is already per-person-total if PP or per-room-total if PI
                         hotel_total_adult += self.get_exchange_rate(h.get('currency', target_cur), target_cur) * (json_rate / div)
 
                 # Calculate Service Costs
-                services = variant.get('services', [])
-                for s in services:
+                for s in all_services:
                     desc = s.get('description', '')
-                    # We might need the city for matching transfers
-                    # Often Day 1 transfer is for the first city
-                    city = pkg.get('hotels', [{}])[0].get('city')
+                    city = s.get('city') or pkg.get('hotels', [{}])[0].get('city')
 
                     rate, cur, rtype = self.find_service_rate(desc, city)
                     if rate is None:
@@ -168,12 +180,18 @@ class PricingEngine:
                     if rtype == 'PP':
                         service_total_adult += self.get_exchange_rate(cur, target_cur) * rate
                     else:
-                        # PI - divide by 2 for adult per-person
+                        # PI - divide by 2 for adult per-person (for standard fit)
+                        # For private variant with vehicle_cost, we might need a different divisor,
+                        # but the user said "divide by 2 pax" for transfers.
                         transfer_total_adult += self.get_exchange_rate(cur, target_cur) * (rate / 2.0)
 
+                # Pax count for vehicle division
+                pax = 2.0
+                if variant_name == 'private' and 'min_pax' in variant and variant['min_pax']:
+                    pax = float(variant['min_pax'][0])
+
                 # Final Pricing Calculation
-                # Adult price includes everything
-                adult_total_cost = hotel_total_adult + service_total_adult + transfer_total_adult
+                adult_total_cost = hotel_total_adult + service_total_adult + transfer_total_adult + (vehicle_cost_total / pax)
                 twin_price = adult_total_cost * markup
 
                 # Child Price: 39% of adult (hotel + services only, no transfers)

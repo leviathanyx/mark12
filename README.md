@@ -1,33 +1,41 @@
-# Europe Incoming — FIT Data Layer
+# Europe Incoming — FIT Brochure & Pricing System
 
-Master data repository for FIT package pricing and program definitions.
+A modern system to manage FIT package pricing and generate "Apple-esque" HTML brochures, replacing traditional PDF brochures with engaging, high-quality content.
 
-## Structure
-```
-data/
-  hotel_rates_master.csv      # PPPN hotel rates by city
-  transfer_rates_master.csv   # Airport/station transfer rates
-  services_master.csv         # All services, trains, excursions (core + optional)
-  markup.csv                  # Market markup factors by season
-  exchange_rates.csv          # Currency conversion rates
+## 🚀 Deployment
 
-packages/
-  2.1_paris_switzerland.json  # One file per program
-  ...
+The site is automatically built and deployed to **GitHub Pages** whenever changes are pushed to the `main` or `feature/*` branches.
 
-scripts/
-  pricing_engine.py           # Calculates all price tables from package JSON + CSVs
-```
+**The Automated Build Process includes:**
+1.  **Enrichment:** `scripts/enrich_packages.py` adds high-quality descriptions and local favorite experiences to multi-country itineraries.
+2.  **Pricing Calculation:** `scripts/pricing_engine.py` calculates real-time rates based on the latest CSV data.
+3.  **Site Generation:** `scripts/generate_site.py` renders the static site using Jinja2 templates.
+4.  **Verification:** `scripts/test_outputs.py` ensures the generated HTML is structurally sound and contains all required data.
 
-## How it works
-1. Update a rate in any CSV → push → all affected packages reprice on next build
-2. Each package JSON defines the service list; prices are calculated at build time
-3. The GitHub Pages portal reads generated prices — no manual PDF updates needed
+## 🛠 Maintenance & Updates
 
-## Pricing logic
-- Hotel rates (PI): divide by 2 for per-person cost
-- Service rates (PP): already per-person
-- Service rates (PI): divide by 2 for per-person
-- Private tours: vehicle cost divided by pax count
-- Final price = cost × markup factor
-- Child rate = twin rate × 0.416
+To update prices or itinerary content, follow these simple steps:
+
+### 1. Update Pricing (CSVs)
+Modify the files in the `data/` directory:
+- `hotel_rates_master.csv`: Update PPPN rates for hotels.
+- `services_master.csv`: Update per-person rates for attractions and trains.
+- `transfer_rates_master.csv`: Update per-group cab rates (system automatically divides by 2 for per-person cost).
+- `exchange_rates.csv`: Update currency conversion rates.
+
+### 2. Update Itineraries (JSONs)
+Modify or add new package JSON files in the `packages/` directory. The system will automatically:
+- Calculate the correct seasonal pricing (15% Winter / 20% Summer).
+- Apply the 20% Arctic destination markup exception.
+- Handle GBP/EUR currency switches.
+
+### 3. Local Development & Preview
+To see your changes locally before pushing:
+1.  **Install dependencies:** `pip install -r requirements.txt`
+2.  **Enrich packages:** `python scripts/enrich_packages.py`
+3.  **Build the site:** `PYTHONPATH=scripts python scripts/generate_site.py`
+4.  **Preview:** Open `dist/index.html` in your browser.
+
+## 🖋 Content Guidelines
+- **Day-by-Day Descriptions:** Aim for 80-100 words per day. Use specific local details (hidden gems, neighborhood favorites) rather than generic tourist highlights.
+- **Top Experiences & Food:** Avoid "obvious" items like the Eiffel Tower or generic Pizza. Research local-favorite dining spots, street food, and unique cultural activities.

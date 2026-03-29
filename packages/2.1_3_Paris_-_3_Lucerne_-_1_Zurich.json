@@ -21,7 +21,7 @@
     {
       "city": "Paris",
       "nights": 3,
-      "hotel_3star": "Hôtel Berne Opéra",
+      "hotel_3star": "H\u00f4tel Berne Op\u00e9ra",
       "hotel_4star": "Marceau Bastille",
       "rate_type": "PI",
       "rate_3star": 570.0,
@@ -42,7 +42,7 @@
       "city": "Zurich",
       "nights": 1,
       "hotel_3star": "Montana Hotel",
-      "hotel_4star": "Züri by Fassbind",
+      "hotel_4star": "Z\u00fcri by Fassbind",
       "rate_type": "PI",
       "rate_3star": 210.0,
       "rate_4star": 260.0,
@@ -70,6 +70,16 @@
       "pricing": {
         "Premium": {},
         "Standard": {}
+      },
+      "day_descriptions": {
+        "Day 1": "Arrive in Paris, the most romantic city in the world. A private transfer takes you to your hotel, followed by a free evening to stroll along the Seine.",
+        "Day 2": "Take a comprehensive city tour including the Eiffel Tower and a relaxing Seine cruise. See the Louvre and the Arc de Triomphe from the comfort of a luxury coach.",
+        "Day 3": "A day at leisure in Paris. Explore Montmartre's artist district or indulge in some high-end shopping at the Galeries Lafayette.",
+        "Day 4": "Bid adieu to Paris and board a high-speed train to Lucerne, Switzerland. Nestled on the shores of Lake Lucerne, this city is a mountain-lover's paradise.",
+        "Day 5": "Ascend the world's first revolving cable car to the summit of Mount Titlis. Enjoy snow and ice activities all year round before returning to Lucerne.",
+        "Day 6": "Spend a free day exploring Lucerne. Walk across the Chapel Bridge or take a leisurely boat trip on the crystal-clear waters of the lake.",
+        "Day 7": "Take a short train ride to Zurich, Switzerland's largest city and financial hub. Discover its charming Old Town (Altstadt) and vibrant lakeside promenades.",
+        "Day 8": "Enjoy a final morning in Zurich before your departure. Don't forget to pick up some world-famous Swiss chocolates!"
       }
     },
     "private": {
@@ -123,5 +133,20 @@
     }
   },
   "optionals": [],
-  "description": ""
+  "description": "",
+  "top_experiences": [
+    "Sunset at the Eiffel Tower",
+    "Cruise on Lake Lucerne",
+    "Chocolate tasting in Zurich"
+  ],
+  "top_food": [
+    "Croissants in Paris",
+    "Cheese Fondue in Lucerne",
+    "Z\u00fcrcher Geschnetzeltes in Zurich"
+  ],
+  "unique_highlights": [
+    "A romantic journey from the City of Light to the Swiss Alps",
+    "Panoramic train travel across international borders",
+    "Luxury stays in central 4-star hotels"
+  ]
 }

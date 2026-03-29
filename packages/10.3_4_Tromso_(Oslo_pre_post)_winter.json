@@ -21,7 +21,7 @@
     {
       "city": "Tromso",
       "nights": 4,
-      "hotel_3star": "Scandic Grand Tromsø",
+      "hotel_3star": "Scandic Grand Troms\u00f8",
       "hotel_4star": "Clarion Hotel The Edge",
       "rate_type": "PI",
       "rate_3star": 1120.0,
@@ -48,7 +48,7 @@
         },
         {
           "day": "Day 2",
-          "description": "Tromsø Island Tour with Arctic Cathedral",
+          "description": "Troms\u00f8 Island Tour with Arctic Cathedral",
           "rate_type": "PP",
           "rate": 1500.0,
           "currency": "NOK"
@@ -85,9 +85,31 @@
       "pricing": {
         "Premium": {},
         "Standard": {}
+      },
+      "day_descriptions": {
+        "Day 1": "Arrive in Troms\u00f8, the 'Paris of the North'. After checking in, embark on an evening cruise in search of the elusive Northern Lights, far from the city's light pollution.",
+        "Day 2": "Discover Troms\u00f8 Island on a guided tour, featuring the stunning Arctic Cathedral. Later, enjoy a night of Sami culture and reindeer sledding under the starlit sky.",
+        "Day 3": "An adrenaline-filled day as you head out on a snowmobile safari through the frozen wilderness. Experience the silence and scale of the Arctic landscape.",
+        "Day 4": "Set sail on a whale-watching tour to witness the ocean's giants in their natural habitat. In the evening, relax in one of Troms\u00f8's cozy Arctic bars.",
+        "Day 5": "Enjoy a final Arctic morning before your private transfer to the airport for your flight home."
       }
     }
   },
   "optionals": [],
-  "description": ""
+  "description": "",
+  "top_experiences": [
+    "Chasing the Northern Lights by cruise",
+    "Husky or Reindeer Sledding",
+    "Exploring the Arctic fjords"
+  ],
+  "top_food": [
+    "King Crab",
+    "Reindeer Stew",
+    "Cloudberry desserts"
+  ],
+  "unique_highlights": [
+    "Stay deep within the Arctic Circle during the magical winter season",
+    "Multiple chances to witness the Aurora Borealis",
+    "Iconic landmarks like the Arctic Cathedral"
+  ]
 }

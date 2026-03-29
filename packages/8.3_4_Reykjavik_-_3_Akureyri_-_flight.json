@@ -15,7 +15,7 @@
     {
       "label": "Summer",
       "start": "2026-04-01",
-      "date_end": "2026-11-30"
+      "end": "2026-11-30"
     }
   ],
   "hotels": [],
@@ -24,7 +24,7 @@
       "services": [],
       "day_descriptions": {
         "Day 1": "Arrive Reykjavik. Transfer to hotel. Evening in the capital.",
-        "Day 2": "Golden Circle full day: Þingvellir, Geysir, Gullfoss.",
+        "Day 2": "Golden Circle full day: \u00deingvellir, Geysir, Gullfoss.",
         "Day 3": "South Coast tour: waterfalls, black beach, glacier lagoon.",
         "Day 4": "Blue Lagoon transfer. Afternoon free in Reykjavik.",
         "Day 5": "Internal flight Reykjavik to Akureyri. Iceland's northern capital sits at the end of a long fjord. Midnight sun in summer.",
@@ -38,28 +38,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         },
@@ -68,28 +68,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         }

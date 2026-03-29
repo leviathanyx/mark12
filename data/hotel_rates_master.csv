@@ -1,5 +1,5 @@
 country,city,hotel_3star,hotel_4star,rate_type,rate_3star_pppn,rate_4star_pppn,currency
-United Kingdom,London,Hotel Montana,Hotel Riu Plaza London Victoria,PPPN,75.0,100.0,GBP
+United Kingdom,London,Hotel Montana,Hotel Riu Plaza London Victoria,PPPN,80.0,100.0,GBP
 United Kingdom,London-Heathrow,Premier Inn Heathrow Airport M4/J4,Hyatt Place London Heathrow Airport,PPPN,65.0,65.0,GBP
 United Kingdom,Manchester,Hilton Garden Inn Manchester Emirates Old Trafford,Crowne Plaza Manchester City Centre,PPPN,60.0,72.5,GBP
 United Kingdom,Edinburgh,Holiday Inn Express Edinburgh City Centre,Apex City of Edinburgh Hotel,PPPN,82.5,87.5,GBP

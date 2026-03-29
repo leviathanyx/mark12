@@ -23,11 +23,11 @@
     "private": {
       "services": [],
       "day_descriptions": {
-        "Day 1": "Arrive Madrid. Private transfer to your hotel. Evening on the Gran Vía or tapas in La Latina.",
-        "Day 2": "Madrid panoramic city tour with private vehicle and optional Toledo excursion — the medieval walled city on the hill above the Tajo river.",
-        "Day 3": "Full day at leisure in Madrid. The Prado, Reina Sofía (Guernica), Retiro Park, the Rastro flea market on Sundays.",
+        "Day 1": "Arrive Madrid. Private transfer to your hotel. Evening on the Gran V\u00eda or tapas in La Latina.",
+        "Day 2": "Madrid panoramic city tour with private vehicle and optional Toledo excursion \u2014 the medieval walled city on the hill above the Tajo river.",
+        "Day 3": "Full day at leisure in Madrid. The Prado, Reina Sof\u00eda (Guernica), Retiro Park, the Rastro flea market on Sundays.",
         "Day 4": "High-speed AVE train Madrid to Barcelona, 2.5 hours. Private transfer to hotel. Evening on the Barceloneta beach or Las Ramblas.",
-        "Day 5": "Barcelona city tour — Sagrada Família, Park Güell, the Gothic Quarter and Montserrat day trip with guide.",
+        "Day 5": "Barcelona city tour \u2014 Sagrada Fam\u00edlia, Park G\u00fcell, the Gothic Quarter and Montserrat day trip with guide.",
         "Day 6": "Full day at leisure in Barcelona. Camp Nou, the Picasso Museum, Barceloneta beach or El Born neighbourhood.",
         "Day 7": "Private transfer to Barcelona El Prat airport. Depart."
       },
@@ -36,128 +36,76 @@
           "winter": {
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
-            "rows": [
-              {
-                "pax": 8,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 10,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 12,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 14,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 16,
-                "3star": null,
-                "4star": null
-              }
-            ]
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
-            "rows": [
-              {
-                "pax": 8,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 10,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 12,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 14,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 16,
-                "3star": null,
-                "4star": null
-              }
-            ]
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           }
         },
         "Standard": {
           "winter": {
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
-            "rows": [
-              {
-                "pax": 8,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 10,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 12,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 14,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 16,
-                "3star": null,
-                "4star": null
-              }
-            ]
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
-            "rows": [
-              {
-                "pax": 8,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 10,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 12,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 14,
-                "3star": null,
-                "4star": null
-              },
-              {
-                "pax": 16,
-                "3star": null,
-                "4star": null
-              }
-            ]
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           }
         }
       }
@@ -170,7 +118,7 @@
       "currency": "EUR"
     },
     {
-      "description": "Sagrada Família ticket",
+      "description": "Sagrada Fam\u00edlia ticket",
       "rate": 52,
       "currency": "EUR"
     },
@@ -180,5 +128,5 @@
       "currency": "EUR"
     }
   ],
-  "description": "Three nights in Madrid's Habsburg quarter, three nights in Barcelona's modernist masterpieces — Spain's two great cities with a dedicated private vehicle."
+  "description": "Three nights in Madrid's Habsburg quarter, three nights in Barcelona's modernist masterpieces \u2014 Spain's two great cities with a dedicated private vehicle."
 }

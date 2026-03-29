@@ -24,12 +24,12 @@
       "services": [],
       "day_descriptions": {
         "Day 1": "Arrive Oslo. Evening at leisure along the Aker Brygge waterfront.",
-        "Day 2": "Oslo city tour — Viking Ship Museum, Fram Museum, Vigeland Sculpture Park.",
-        "Day 3": "Train to Myrdal then the Flåm Railway to the Aurlandsfjord. Overnight Flåm.",
-        "Day 4": "Fjord cruise Flåm to Bergen through the Nærøyfjord. Arrive Bergen, explore Bryggen wharf.",
-        "Day 5": "Bergen at leisure — Fløibanen funicular, fish market, old quarter.",
+        "Day 2": "Oslo city tour \u2014 Viking Ship Museum, Fram Museum, Vigeland Sculpture Park.",
+        "Day 3": "Train to Myrdal then the Fl\u00e5m Railway to the Aurlandsfjord. Overnight Fl\u00e5m.",
+        "Day 4": "Fjord cruise Fl\u00e5m to Bergen through the N\u00e6r\u00f8yfjord. Arrive Bergen, explore Bryggen wharf.",
+        "Day 5": "Bergen at leisure \u2014 Fl\u00f8ibanen funicular, fish market, old quarter.",
         "Day 6": "Ferry or flight to Stavanger. Norway's oil capital has a charming old town of wooden houses and the Stavanger Cathedral.",
-        "Day 7": "Preikestolen (Pulpit Rock) — a 604-metre flat-topped cliff above the Lysefjord, one of Norway's iconic hikes. Optional boat tour of the Lysefjord.",
+        "Day 7": "Preikestolen (Pulpit Rock) \u2014 a 604-metre flat-topped cliff above the Lysefjord, one of Norway's iconic hikes. Optional boat tour of the Lysefjord.",
         "Day 8": "Depart Stavanger airport."
       },
       "pricing": {
@@ -38,28 +38,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         },
@@ -68,28 +68,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         }
@@ -97,5 +97,5 @@
     }
   },
   "optionals": [],
-  "description": "Oslo, the Flåm Railway, Bergen and Stavanger's oil history and Preikestolen cliff on a seven-night Norway circuit."
+  "description": "Oslo, the Fl\u00e5m Railway, Bergen and Stavanger's oil history and Preikestolen cliff on a seven-night Norway circuit."
 }

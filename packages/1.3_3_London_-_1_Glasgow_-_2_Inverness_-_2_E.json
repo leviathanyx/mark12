@@ -6,7 +6,18 @@
   "currency": "GBP",
   "winter_only": false,
   "pricing_locked": false,
-  "validity": [],
+  "validity": [
+    {
+      "label": "Winter",
+      "start": "2025-11-01",
+      "end": "2026-03-31"
+    },
+    {
+      "label": "Summer",
+      "start": "2026-04-01",
+      "end": "2026-11-30"
+    }
+  ],
   "markup": {
     "Premium": {
       "winter": 1.2,
@@ -78,8 +89,66 @@
         }
       ],
       "pricing": {
-        "Premium": {},
-        "Standard": {}
+        "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 1639.2,
+              "twin": 819.6,
+              "child": 340.954
+            },
+            "4star": {
+              "single": 1887.6,
+              "twin": 943.8,
+              "child": 392.621
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 1707.5,
+              "twin": 853.75,
+              "child": 355.16
+            },
+            "4star": {
+              "single": 1966.25,
+              "twin": 983.125,
+              "child": 408.98
+            }
+          }
+        },
+        "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 1502.6,
+              "twin": 751.3,
+              "child": 312.541
+            },
+            "4star": {
+              "single": 1730.3,
+              "twin": 865.15,
+              "child": 359.902
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 1570.9,
+              "twin": 785.45,
+              "child": 326.747
+            },
+            "4star": {
+              "single": 1808.95,
+              "twin": 904.475,
+              "child": 376.262
+            }
+          }
+        }
       }
     }
   },

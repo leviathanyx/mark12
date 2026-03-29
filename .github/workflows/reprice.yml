@@ -1,0 +1,33 @@
+name: Recalculate Package Prices
+
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'packages/**'
+      - 'scripts/**'
+  workflow_dispatch:
+
+jobs:
+  reprice:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Build Script
+        run: |
+          cd scripts
+          python3 build_packages.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add packages/*.json packages.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated reprice [skip ci]" && git push)

@@ -1,0 +1,4626 @@
+{
+  "packages": [
+    {
+      "id": "2.7",
+      "name": "3 Amsterdam - 3 Bruges - 2 Brussels - 1 Maastricht - 1 Amsterdam",
+      "region": "western-central-europe",
+      "duration": "10 nights",
+      "cities": [
+        "Amsterdam",
+        "Bruges",
+        "Brussels",
+        "Maastricht",
+        "Amsterdam"
+      ],
+      "description": "Amsterdam's golden canals, Bruges' medieval belfry, Brussels' Art Nouveau grandeur and Maastricht's Burgundian charm on a self-drive through the Low Countries.",
+      "pricing": {
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2802.0,
+                "twin": 1401.0,
+                "child": 382.59
+              },
+              "4star": {
+                "single": 3252.0,
+                "twin": 1626.0,
+                "child": 470.34
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2802.0,
+                "twin": 1401.0,
+                "child": 382.59
+              },
+              "4star": {
+                "single": 3252.0,
+                "twin": 1626.0,
+                "child": 470.34
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2802.0,
+                "twin": 1401.0,
+                "child": 382.59
+              },
+              "4star": {
+                "single": 3252.0,
+                "twin": 1626.0,
+                "child": 470.34
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2802.0,
+                "twin": 1401.0,
+                "child": 382.59
+              },
+              "4star": {
+                "single": 3252.0,
+                "twin": 1626.0,
+                "child": 470.34
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1.4",
+      "name": "2 Edinburgh - 2 Inverness - 1 Fort William -  1 Edinburgh",
+      "region": "uk-ireland",
+      "duration": "6 nights",
+      "cities": [
+        "Edinburgh",
+        "Inverness",
+        "Fort William",
+        "Glasgow"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1071.6,
+                "twin": 535.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1224.0,
+                "twin": 612.0,
+                "child": 219.96
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1071.6,
+                "twin": 535.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1224.0,
+                "twin": 612.0,
+                "child": 219.96
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1071.6,
+                "twin": 535.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1224.0,
+                "twin": 612.0,
+                "child": 219.96
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1071.6,
+                "twin": 535.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1224.0,
+                "twin": 612.0,
+                "child": 219.96
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2110.8,
+                "10": 1855.8,
+                "12": 1685.8,
+                "14": 1564.371,
+                "16": 1473.3
+              },
+              "4star": {
+                "8": 2187.0,
+                "10": 1932.0,
+                "12": 1762.0,
+                "14": 1640.571,
+                "16": 1549.5
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2110.8,
+                "10": 1855.8,
+                "12": 1685.8,
+                "14": 1564.371,
+                "16": 1473.3
+              },
+              "4star": {
+                "8": 2187.0,
+                "10": 1932.0,
+                "12": 1762.0,
+                "14": 1640.571,
+                "16": 1549.5
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2110.8,
+                "10": 1855.8,
+                "12": 1685.8,
+                "14": 1564.371,
+                "16": 1473.3
+              },
+              "4star": {
+                "8": 2187.0,
+                "10": 1932.0,
+                "12": 1762.0,
+                "14": 1640.571,
+                "16": 1549.5
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2110.8,
+                "10": 1855.8,
+                "12": 1685.8,
+                "14": 1564.371,
+                "16": 1473.3
+              },
+              "4star": {
+                "8": 2187.0,
+                "10": 1932.0,
+                "12": 1762.0,
+                "14": 1640.571,
+                "16": 1549.5
+              }
+            }
+          }
+        },
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1671.6,
+                "twin": 835.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1824.0,
+                "twin": 912.0,
+                "child": 219.96
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1671.6,
+                "twin": 835.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1824.0,
+                "twin": 912.0,
+                "child": 219.96
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1671.6,
+                "twin": 835.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1824.0,
+                "twin": 912.0,
+                "child": 219.96
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1671.6,
+                "twin": 835.8,
+                "child": 190.242
+              },
+              "4star": {
+                "single": 1824.0,
+                "twin": 912.0,
+                "child": 219.96
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1.6",
+      "name": "2 London - 1 Cheltenham - 1 Barnstaple - 2 Truro - 1 Plymouth - 1 Exeter - 1 Bournemouth - 1 London",
+      "region": "uk-ireland",
+      "duration": "10 nights",
+      "cities": [
+        "London",
+        "Cheltenham",
+        "Barnstaple",
+        "Truro",
+        "Plymouth",
+        "Exeter",
+        "Bournemouth",
+        "London"
+      ],
+      "description": "England's secret southwest \u2014 the Cotswolds, King Arthur's Tintagel, Lands End, the Jurassic Coast, Stonehenge and Windsor on one spectacular self-drive loop.",
+      "pricing": {
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2676.0,
+                "twin": 1338.0,
+                "child": 343.98
+              },
+              "4star": {
+                "single": 3120.0,
+                "twin": 1560.0,
+                "child": 430.56
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2676.0,
+                "twin": 1338.0,
+                "child": 343.98
+              },
+              "4star": {
+                "single": 3120.0,
+                "twin": 1560.0,
+                "child": 430.56
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2676.0,
+                "twin": 1338.0,
+                "child": 343.98
+              },
+              "4star": {
+                "single": 3120.0,
+                "twin": 1560.0,
+                "child": 430.56
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2676.0,
+                "twin": 1338.0,
+                "child": 343.98
+              },
+              "4star": {
+                "single": 3120.0,
+                "twin": 1560.0,
+                "child": 430.56
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "9.1",
+      "name": "1 CPH - 1 Ferry - 1 Oslo - 1 Stockholm - 1 Ferry - 1 Helsinki",
+      "region": "scandinavia",
+      "duration": "6 nights",
+      "cities": [
+        "Copenhagen",
+        "DFDS Ferry",
+        "Oslo",
+        "Stockholm",
+        "Tallink Silja Ferry",
+        "Helsinki"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2219.79,
+                "twin": 1109.895,
+                "child": 434.473
+              },
+              "4star": {
+                "single": 2663.79,
+                "twin": 1331.895,
+                "child": 521.053
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2219.79,
+                "twin": 1109.895,
+                "child": 434.473
+              },
+              "4star": {
+                "single": 2663.79,
+                "twin": 1331.895,
+                "child": 521.053
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2219.79,
+                "twin": 1109.895,
+                "child": 434.473
+              },
+              "4star": {
+                "single": 2663.79,
+                "twin": 1331.895,
+                "child": 521.053
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2219.79,
+                "twin": 1109.895,
+                "child": 434.473
+              },
+              "4star": {
+                "single": 2663.79,
+                "twin": 1331.895,
+                "child": 521.053
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1.5",
+      "name": "2 Dublin - 3 Limerick - 1 Dublin",
+      "region": "uk-ireland",
+      "duration": "6 nights",
+      "cities": [
+        "Dublin",
+        "Limerick",
+        "Dublin"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1480.8,
+                "twin": 740.4,
+                "child": 274.86
+              },
+              "4star": {
+                "single": 1660.8,
+                "twin": 830.4,
+                "child": 309.96
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1480.8,
+                "twin": 740.4,
+                "child": 274.86
+              },
+              "4star": {
+                "single": 1660.8,
+                "twin": 830.4,
+                "child": 309.96
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1480.8,
+                "twin": 740.4,
+                "child": 274.86
+              },
+              "4star": {
+                "single": 1660.8,
+                "twin": 830.4,
+                "child": 309.96
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1480.8,
+                "twin": 740.4,
+                "child": 274.86
+              },
+              "4star": {
+                "single": 1660.8,
+                "twin": 830.4,
+                "child": 309.96
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 1740.0,
+                "10": 1584.0,
+                "12": 1480.0,
+                "14": 1405.714,
+                "16": 1350.0
+              },
+              "4star": {
+                "8": 1830.0,
+                "10": 1674.0,
+                "12": 1570.0,
+                "14": 1495.714,
+                "16": 1440.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 1740.0,
+                "10": 1584.0,
+                "12": 1480.0,
+                "14": 1405.714,
+                "16": 1350.0
+              },
+              "4star": {
+                "8": 1830.0,
+                "10": 1674.0,
+                "12": 1570.0,
+                "14": 1495.714,
+                "16": 1440.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 1740.0,
+                "10": 1584.0,
+                "12": 1480.0,
+                "14": 1405.714,
+                "16": 1350.0
+              },
+              "4star": {
+                "8": 1830.0,
+                "10": 1674.0,
+                "12": 1570.0,
+                "14": 1495.714,
+                "16": 1440.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 1740.0,
+                "10": 1584.0,
+                "12": 1480.0,
+                "14": 1405.714,
+                "16": 1350.0
+              },
+              "4star": {
+                "8": 1830.0,
+                "10": 1674.0,
+                "12": 1570.0,
+                "14": 1495.714,
+                "16": 1440.0
+              }
+            }
+          }
+        },
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1908.0,
+                "twin": 954.0,
+                "child": 208.98
+              },
+              "4star": {
+                "single": 2088.0,
+                "twin": 1044.0,
+                "child": 244.08
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1908.0,
+                "twin": 954.0,
+                "child": 208.98
+              },
+              "4star": {
+                "single": 2088.0,
+                "twin": 1044.0,
+                "child": 244.08
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1908.0,
+                "twin": 954.0,
+                "child": 208.98
+              },
+              "4star": {
+                "single": 2088.0,
+                "twin": 1044.0,
+                "child": 244.08
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1908.0,
+                "twin": 954.0,
+                "child": 208.98
+              },
+              "4star": {
+                "single": 2088.0,
+                "twin": 1044.0,
+                "child": 244.08
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2.3",
+      "name": "2 Paris - 3 Lucerne - 2 Venice - 1 Florence - 2 Rome",
+      "region": "western-central-europe",
+      "duration": "10 nights",
+      "cities": [
+        "Paris",
+        "Lucerne",
+        "Mestre Venice",
+        "Florence",
+        "Rome"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3160.8,
+                "twin": 1580.4,
+                "child": 622.62
+              },
+              "4star": {
+                "single": 3904.8,
+                "twin": 1952.4,
+                "child": 767.7
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3160.8,
+                "twin": 1580.4,
+                "child": 622.62
+              },
+              "4star": {
+                "single": 3904.8,
+                "twin": 1952.4,
+                "child": 767.7
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3160.8,
+                "twin": 1580.4,
+                "child": 622.62
+              },
+              "4star": {
+                "single": 3904.8,
+                "twin": 1952.4,
+                "child": 767.7
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3160.8,
+                "twin": 1580.4,
+                "child": 622.62
+              },
+              "4star": {
+                "single": 3904.8,
+                "twin": 1952.4,
+                "child": 767.7
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 4091.1,
+                "10": 3465.6,
+                "12": 3048.6,
+                "14": 2750.743,
+                "16": 2527.35
+              },
+              "4star": {
+                "8": 4463.1,
+                "10": 3837.6,
+                "12": 3420.6,
+                "14": 3122.743,
+                "16": 2899.35
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 4091.1,
+                "10": 3465.6,
+                "12": 3048.6,
+                "14": 2750.743,
+                "16": 2527.35
+              },
+              "4star": {
+                "8": 4463.1,
+                "10": 3837.6,
+                "12": 3420.6,
+                "14": 3122.743,
+                "16": 2899.35
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 4091.1,
+                "10": 3465.6,
+                "12": 3048.6,
+                "14": 2750.743,
+                "16": 2527.35
+              },
+              "4star": {
+                "8": 4463.1,
+                "10": 3837.6,
+                "12": 3420.6,
+                "14": 3122.743,
+                "16": 2899.35
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 4091.1,
+                "10": 3465.6,
+                "12": 3048.6,
+                "14": 2750.743,
+                "16": 2527.35
+              },
+              "4star": {
+                "8": 4463.1,
+                "10": 3837.6,
+                "12": 3420.6,
+                "14": 3122.743,
+                "16": 2899.35
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2.5",
+      "name": "2 Amsterdam - 2 Paris - 3 Lucerne - 2 Venice - 1 Florence - 2 Rome",
+      "region": "western-central-europe",
+      "duration": "12 nights",
+      "cities": [
+        "Amsterdam",
+        "Paris",
+        "Lucerne",
+        "Mestre Venice",
+        "Florence",
+        "Rome"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 4252.8,
+                "twin": 2126.4,
+                "child": 866.7
+              },
+              "4star": {
+                "single": 5020.8,
+                "twin": 2510.4,
+                "child": 1016.46
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 4252.8,
+                "twin": 2126.4,
+                "child": 866.7
+              },
+              "4star": {
+                "single": 5020.8,
+                "twin": 2510.4,
+                "child": 1016.46
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 4252.8,
+                "twin": 2126.4,
+                "child": 866.7
+              },
+              "4star": {
+                "single": 5020.8,
+                "twin": 2510.4,
+                "child": 1016.46
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 4252.8,
+                "twin": 2126.4,
+                "child": 866.7
+              },
+              "4star": {
+                "single": 5020.8,
+                "twin": 2510.4,
+                "child": 1016.46
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 5136.9,
+                "10": 4358.4,
+                "12": 3839.4,
+                "14": 3468.686,
+                "16": 3190.65
+              },
+              "4star": {
+                "8": 5520.9,
+                "10": 4742.4,
+                "12": 4223.4,
+                "14": 3852.686,
+                "16": 3574.65
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 5136.9,
+                "10": 4358.4,
+                "12": 3839.4,
+                "14": 3468.686,
+                "16": 3190.65
+              },
+              "4star": {
+                "8": 5520.9,
+                "10": 4742.4,
+                "12": 4223.4,
+                "14": 3852.686,
+                "16": 3574.65
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 5136.9,
+                "10": 4358.4,
+                "12": 3839.4,
+                "14": 3468.686,
+                "16": 3190.65
+              },
+              "4star": {
+                "8": 5520.9,
+                "10": 4742.4,
+                "12": 4223.4,
+                "14": 3852.686,
+                "16": 3574.65
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 5136.9,
+                "10": 4358.4,
+                "12": 3839.4,
+                "14": 3468.686,
+                "16": 3190.65
+              },
+              "4star": {
+                "8": 5520.9,
+                "10": 4742.4,
+                "12": 4223.4,
+                "14": 3852.686,
+                "16": 3574.65
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4.2",
+      "name": "2 Lucerne - 2 Interlaken - 2 Montreux - 1 Zurich",
+      "region": "switzerland",
+      "duration": "None nights",
+      "cities": [
+        "Lucerne",
+        "Interlaken",
+        "Montreaux. Hotel Helvetie | Eden Palace Au Lac",
+        "Zurich"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 420.3
+              },
+              "4star": {
+                "single": 2256.0,
+                "twin": 1128.0,
+                "child": 469.44
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 420.3
+              },
+              "4star": {
+                "single": 2256.0,
+                "twin": 1128.0,
+                "child": 469.44
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 420.3
+              },
+              "4star": {
+                "single": 2256.0,
+                "twin": 1128.0,
+                "child": 469.44
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 420.3
+              },
+              "4star": {
+                "single": 2256.0,
+                "twin": 1128.0,
+                "child": 469.44
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2793.6,
+                "10": 2361.6,
+                "12": 2073.6,
+                "14": 1867.886,
+                "16": 1713.6
+              },
+              "4star": {
+                "8": 2919.6,
+                "10": 2487.6,
+                "12": 2199.6,
+                "14": 1993.886,
+                "16": 1839.6
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2793.6,
+                "10": 2361.6,
+                "12": 2073.6,
+                "14": 1867.886,
+                "16": 1713.6
+              },
+              "4star": {
+                "8": 2919.6,
+                "10": 2487.6,
+                "12": 2199.6,
+                "14": 1993.886,
+                "16": 1839.6
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2793.6,
+                "10": 2361.6,
+                "12": 2073.6,
+                "14": 1867.886,
+                "16": 1713.6
+              },
+              "4star": {
+                "8": 2919.6,
+                "10": 2487.6,
+                "12": 2199.6,
+                "14": 1993.886,
+                "16": 1839.6
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2793.6,
+                "10": 2361.6,
+                "12": 2073.6,
+                "14": 1867.886,
+                "16": 1713.6
+              },
+              "4star": {
+                "8": 2919.6,
+                "10": 2487.6,
+                "12": 2199.6,
+                "14": 1993.886,
+                "16": 1839.6
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "10.2",
+      "name": "4 Rovaniemi (Helsinki pre/post), winter NY",
+      "region": "scandinavia",
+      "duration": "4 nights",
+      "cities": [],
+      "description": "Rovaniemi at New Year \u2014 Santa's hometown, reindeer sleigh rides, husky safaris and midnight fireworks under the Arctic sky.",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8.1",
+      "name": "1 Reykjavik - 1 Akureyri - 1 Myvatn - 1 Egilsstadir - 1 Hofn - 1 Vik - 1 Reykjavik",
+      "region": "scandinavia",
+      "duration": "7 nights",
+      "cities": [],
+      "description": "Iceland's complete ring road: Reykjavik, Akureyri, Lake Myvatn's geothermal fields, the Eastfjords, the J\u00f6kuls\u00e1rl\u00f3n glacier lagoon, V\u00edk's black beaches.",
+      "pricing": {
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "10.1",
+      "name": "4 Rovaniemi (Helsinki pre/post), winter",
+      "region": "scandinavia",
+      "duration": "5 nights",
+      "cities": [
+        "Rovaniemi | Scandic Pohjanovi"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              },
+              "4star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              },
+              "4star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              },
+              "4star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              },
+              "4star": {
+                "single": 1056.0,
+                "twin": 528.0,
+                "child": 216.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2.4",
+      "name": "2 Amsterdam - 2 Paris - 3 Lucerne - 1 Zurich",
+      "region": "western-central-europe",
+      "duration": "8 nights",
+      "cities": [
+        "Amsterdam",
+        "Paris",
+        "Lucerne",
+        "Zurich"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3801.6,
+                "twin": 1900.8,
+                "child": 775.26
+              },
+              "4star": {
+                "single": 4281.6,
+                "twin": 2140.8,
+                "child": 868.86
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3801.6,
+                "twin": 1900.8,
+                "child": 775.26
+              },
+              "4star": {
+                "single": 4281.6,
+                "twin": 2140.8,
+                "child": 868.86
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3801.6,
+                "twin": 1900.8,
+                "child": 775.26
+              },
+              "4star": {
+                "single": 4281.6,
+                "twin": 2140.8,
+                "child": 868.86
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3801.6,
+                "twin": 1900.8,
+                "child": 775.26
+              },
+              "4star": {
+                "single": 4281.6,
+                "twin": 2140.8,
+                "child": 868.86
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3638.1,
+                "10": 3128.4,
+                "12": 2788.6,
+                "14": 2545.886,
+                "16": 2363.85
+              },
+              "4star": {
+                "8": 3878.1,
+                "10": 3368.4,
+                "12": 3028.6,
+                "14": 2785.886,
+                "16": 2603.85
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3638.1,
+                "10": 3128.4,
+                "12": 2788.6,
+                "14": 2545.886,
+                "16": 2363.85
+              },
+              "4star": {
+                "8": 3878.1,
+                "10": 3368.4,
+                "12": 3028.6,
+                "14": 2785.886,
+                "16": 2603.85
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3638.1,
+                "10": 3128.4,
+                "12": 2788.6,
+                "14": 2545.886,
+                "16": 2363.85
+              },
+              "4star": {
+                "8": 3878.1,
+                "10": 3368.4,
+                "12": 3028.6,
+                "14": 2785.886,
+                "16": 2603.85
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3638.1,
+                "10": 3128.4,
+                "12": 2788.6,
+                "14": 2545.886,
+                "16": 2363.85
+              },
+              "4star": {
+                "8": 3878.1,
+                "10": 3368.4,
+                "12": 3028.6,
+                "14": 2785.886,
+                "16": 2603.85
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2.1",
+      "name": "3 Paris - 3 Lucerne - 1 Zurich",
+      "region": "western-central-europe",
+      "duration": "7 nights",
+      "cities": [
+        "Paris",
+        "Lucerne",
+        "Zurich"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1989.6,
+                "twin": 994.8,
+                "child": 362.34
+              },
+              "4star": {
+                "single": 2517.6,
+                "twin": 1258.8,
+                "child": 465.3
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1989.6,
+                "twin": 994.8,
+                "child": 362.34
+              },
+              "4star": {
+                "single": 2517.6,
+                "twin": 1258.8,
+                "child": 465.3
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1989.6,
+                "twin": 994.8,
+                "child": 362.34
+              },
+              "4star": {
+                "single": 2517.6,
+                "twin": 1258.8,
+                "child": 465.3
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1989.6,
+                "twin": 994.8,
+                "child": 362.34
+              },
+              "4star": {
+                "single": 2517.6,
+                "twin": 1258.8,
+                "child": 465.3
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3086.1,
+                "10": 2667.6,
+                "12": 2388.6,
+                "14": 2189.314,
+                "16": 2039.85
+              },
+              "4star": {
+                "8": 3350.1,
+                "10": 2931.6,
+                "12": 2652.6,
+                "14": 2453.314,
+                "16": 2303.85
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3086.1,
+                "10": 2667.6,
+                "12": 2388.6,
+                "14": 2189.314,
+                "16": 2039.85
+              },
+              "4star": {
+                "8": 3350.1,
+                "10": 2931.6,
+                "12": 2652.6,
+                "14": 2453.314,
+                "16": 2303.85
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3086.1,
+                "10": 2667.6,
+                "12": 2388.6,
+                "14": 2189.314,
+                "16": 2039.85
+              },
+              "4star": {
+                "8": 3350.1,
+                "10": 2931.6,
+                "12": 2652.6,
+                "14": 2453.314,
+                "16": 2303.85
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3086.1,
+                "10": 2667.6,
+                "12": 2388.6,
+                "14": 2189.314,
+                "16": 2039.85
+              },
+              "4star": {
+                "8": 3350.1,
+                "10": 2931.6,
+                "12": 2652.6,
+                "14": 2453.314,
+                "16": 2303.85
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1.2",
+      "name": "3 London - 2 Manchester- 2 Edinburgh - 2 Inverness - 1 Glasgow",
+      "region": "uk-ireland",
+      "duration": "10 nights",
+      "cities": [
+        "London",
+        "Manchester",
+        "Edinburgh",
+        "Inverness",
+        "Glasgow"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1927.2,
+                "twin": 963.6,
+                "child": 339.462
+              },
+              "4star": {
+                "single": 2235.6,
+                "twin": 1117.8,
+                "child": 399.6
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1927.2,
+                "twin": 963.6,
+                "child": 339.462
+              },
+              "4star": {
+                "single": 2235.6,
+                "twin": 1117.8,
+                "child": 399.6
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1927.2,
+                "twin": 963.6,
+                "child": 339.462
+              },
+              "4star": {
+                "single": 2235.6,
+                "twin": 1117.8,
+                "child": 399.6
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1927.2,
+                "twin": 963.6,
+                "child": 339.462
+              },
+              "4star": {
+                "single": 2235.6,
+                "twin": 1117.8,
+                "child": 399.6
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3479.7,
+                "10": 3016.2,
+                "12": 2707.2,
+                "14": 2486.486,
+                "16": 2320.95
+              },
+              "4star": {
+                "8": 3633.9,
+                "10": 3170.4,
+                "12": 2861.4,
+                "14": 2640.686,
+                "16": 2475.15
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3479.7,
+                "10": 3016.2,
+                "12": 2707.2,
+                "14": 2486.486,
+                "16": 2320.95
+              },
+              "4star": {
+                "8": 3633.9,
+                "10": 3170.4,
+                "12": 2861.4,
+                "14": 2640.686,
+                "16": 2475.15
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3479.7,
+                "10": 3016.2,
+                "12": 2707.2,
+                "14": 2486.486,
+                "16": 2320.95
+              },
+              "4star": {
+                "8": 3633.9,
+                "10": 3170.4,
+                "12": 2861.4,
+                "14": 2640.686,
+                "16": 2475.15
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3479.7,
+                "10": 3016.2,
+                "12": 2707.2,
+                "14": 2486.486,
+                "16": 2320.95
+              },
+              "4star": {
+                "8": 3633.9,
+                "10": 3170.4,
+                "12": 2861.4,
+                "14": 2640.686,
+                "16": 2475.15
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "5.3",
+      "name": "1 Ajaccio - 2 Porto-Ota - 2 Corte - 2 Bonifacio - 1 Ajaccio",
+      "region": "france",
+      "duration": "8 nights",
+      "cities": [
+        "Ajaccio",
+        "Porto-Ota",
+        "Corte",
+        "Bonifacio",
+        "Ajaccio"
+      ],
+      "description": "Corsica's dramatic interior \u2014 the Calanques de Piana, Spelunca gorge, Restonica valley and the white limestone cliffs of Bonifacio on a self-drive circuit.",
+      "pricing": {
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2436.0,
+                "twin": 1218.0,
+                "child": 322.92
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2436.0,
+                "twin": 1218.0,
+                "child": 322.92
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2436.0,
+                "twin": 1218.0,
+                "child": 322.92
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2436.0,
+                "twin": 1218.0,
+                "child": 322.92
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "5.1",
+      "name": "2 Paris - 2 Avignon - 2 Aix - 2 Nice",
+      "region": "france",
+      "duration": "8 nights",
+      "cities": [
+        "Paris",
+        "Avignon",
+        "Aix en Provence",
+        "Nice"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1848.0,
+                "twin": 924.0,
+                "child": 327.6
+              },
+              "4star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 428.22
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1848.0,
+                "twin": 924.0,
+                "child": 327.6
+              },
+              "4star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 428.22
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1848.0,
+                "twin": 924.0,
+                "child": 327.6
+              },
+              "4star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 428.22
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1848.0,
+                "twin": 924.0,
+                "child": 327.6
+              },
+              "4star": {
+                "single": 2364.0,
+                "twin": 1182.0,
+                "child": 428.22
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3526.5,
+                "10": 3006.0,
+                "12": 2659.0,
+                "14": 2411.143,
+                "16": 2225.25
+              },
+              "4star": {
+                "8": 3784.5,
+                "10": 3264.0,
+                "12": 2917.0,
+                "14": 2669.143,
+                "16": 2483.25
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3526.5,
+                "10": 3006.0,
+                "12": 2659.0,
+                "14": 2411.143,
+                "16": 2225.25
+              },
+              "4star": {
+                "8": 3784.5,
+                "10": 3264.0,
+                "12": 2917.0,
+                "14": 2669.143,
+                "16": 2483.25
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3526.5,
+                "10": 3006.0,
+                "12": 2659.0,
+                "14": 2411.143,
+                "16": 2225.25
+              },
+              "4star": {
+                "8": 3784.5,
+                "10": 3264.0,
+                "12": 2917.0,
+                "14": 2669.143,
+                "16": 2483.25
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3526.5,
+                "10": 3006.0,
+                "12": 2659.0,
+                "14": 2411.143,
+                "16": 2225.25
+              },
+              "4star": {
+                "8": 3784.5,
+                "10": 3264.0,
+                "12": 2917.0,
+                "14": 2669.143,
+                "16": 2483.25
+              }
+            }
+          }
+        },
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2892.0,
+                "twin": 1446.0,
+                "child": 360.0
+              },
+              "4star": {
+                "single": 3408.0,
+                "twin": 1704.0,
+                "child": 460.62
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2892.0,
+                "twin": 1446.0,
+                "child": 360.0
+              },
+              "4star": {
+                "single": 3408.0,
+                "twin": 1704.0,
+                "child": 460.62
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2892.0,
+                "twin": 1446.0,
+                "child": 360.0
+              },
+              "4star": {
+                "single": 3408.0,
+                "twin": 1704.0,
+                "child": 460.62
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2892.0,
+                "twin": 1446.0,
+                "child": 360.0
+              },
+              "4star": {
+                "single": 3408.0,
+                "twin": 1704.0,
+                "child": 460.62
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "6.1",
+      "name": "2 Madrid - 2 Granada - 2 Seville - 2 Barcelona",
+      "region": "spain-portugal",
+      "duration": "8 nights",
+      "cities": [
+        "Madrid",
+        "Granada",
+        "Seville",
+        "Barcelona"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2808.0,
+                "twin": 1404.0,
+                "child": 550.08
+              },
+              "4star": {
+                "single": 3180.0,
+                "twin": 1590.0,
+                "child": 622.62
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2808.0,
+                "twin": 1404.0,
+                "child": 550.08
+              },
+              "4star": {
+                "single": 3180.0,
+                "twin": 1590.0,
+                "child": 622.62
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2808.0,
+                "twin": 1404.0,
+                "child": 550.08
+              },
+              "4star": {
+                "single": 3180.0,
+                "twin": 1590.0,
+                "child": 622.62
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2808.0,
+                "twin": 1404.0,
+                "child": 550.08
+              },
+              "4star": {
+                "single": 3180.0,
+                "twin": 1590.0,
+                "child": 622.62
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 4614.0,
+                "10": 3906.0,
+                "12": 3434.0,
+                "14": 3096.857,
+                "16": 2844.0
+              },
+              "4star": {
+                "8": 4800.0,
+                "10": 4092.0,
+                "12": 3620.0,
+                "14": 3282.857,
+                "16": 3030.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 4614.0,
+                "10": 3906.0,
+                "12": 3434.0,
+                "14": 3096.857,
+                "16": 2844.0
+              },
+              "4star": {
+                "8": 4800.0,
+                "10": 4092.0,
+                "12": 3620.0,
+                "14": 3282.857,
+                "16": 3030.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 4614.0,
+                "10": 3906.0,
+                "12": 3434.0,
+                "14": 3096.857,
+                "16": 2844.0
+              },
+              "4star": {
+                "8": 4800.0,
+                "10": 4092.0,
+                "12": 3620.0,
+                "14": 3282.857,
+                "16": 3030.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 4614.0,
+                "10": 3906.0,
+                "12": 3434.0,
+                "14": 3096.857,
+                "16": 2844.0
+              },
+              "4star": {
+                "8": 4800.0,
+                "10": 4092.0,
+                "12": 3620.0,
+                "14": 3282.857,
+                "16": 3030.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3.1",
+      "name": "2 Venice - 2 Florence - 2 Rome",
+      "region": "italy",
+      "duration": "6 nights",
+      "cities": [
+        "Mestre",
+        "Florence",
+        "Rome"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 275.04
+              },
+              "4star": {
+                "single": 1746.0,
+                "twin": 873.0,
+                "child": 323.01
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 275.04
+              },
+              "4star": {
+                "single": 1746.0,
+                "twin": 873.0,
+                "child": 323.01
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 275.04
+              },
+              "4star": {
+                "single": 1746.0,
+                "twin": 873.0,
+                "child": 323.01
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 275.04
+              },
+              "4star": {
+                "single": 1746.0,
+                "twin": 873.0,
+                "child": 323.01
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2161.5,
+                "10": 1796.4,
+                "12": 1553.0,
+                "14": 1379.143,
+                "16": 1248.75
+              },
+              "4star": {
+                "8": 2284.5,
+                "10": 1919.4,
+                "12": 1676.0,
+                "14": 1502.143,
+                "16": 1371.75
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2161.5,
+                "10": 1796.4,
+                "12": 1553.0,
+                "14": 1379.143,
+                "16": 1248.75
+              },
+              "4star": {
+                "8": 2284.5,
+                "10": 1919.4,
+                "12": 1676.0,
+                "14": 1502.143,
+                "16": 1371.75
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2161.5,
+                "10": 1796.4,
+                "12": 1553.0,
+                "14": 1379.143,
+                "16": 1248.75
+              },
+              "4star": {
+                "8": 2284.5,
+                "10": 1919.4,
+                "12": 1676.0,
+                "14": 1502.143,
+                "16": 1371.75
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2161.5,
+                "10": 1796.4,
+                "12": 1553.0,
+                "14": 1379.143,
+                "16": 1248.75
+              },
+              "4star": {
+                "8": 2284.5,
+                "10": 1919.4,
+                "12": 1676.0,
+                "14": 1502.143,
+                "16": 1371.75
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7.2",
+      "name": "1 Zagreb - 2 Zadar - 1 Split - 2 Dubrovnik",
+      "region": "eastern-europe",
+      "duration": "6 nights",
+      "cities": [],
+      "description": "Croatia's Dalmatian coast: Zagreb's baroque centre, Zadar's sea organ, Split's Diocletian's Palace and Dubrovnik's city walls.",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2.6",
+      "name": "3 Lucerne - 2 Venice - 1 Florence - 2 Rome",
+      "region": "western-central-europe",
+      "duration": "8 nights",
+      "cities": [
+        "Zurich",
+        "Mestre",
+        "Florence",
+        "Rome"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1894.8,
+                "twin": 947.4,
+                "child": 391.23
+              },
+              "4star": {
+                "single": 2284.8,
+                "twin": 1142.4,
+                "child": 467.28
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1894.8,
+                "twin": 947.4,
+                "child": 391.23
+              },
+              "4star": {
+                "single": 2284.8,
+                "twin": 1142.4,
+                "child": 467.28
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1894.8,
+                "twin": 947.4,
+                "child": 391.23
+              },
+              "4star": {
+                "single": 2284.8,
+                "twin": 1142.4,
+                "child": 467.28
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1894.8,
+                "twin": 947.4,
+                "child": 391.23
+              },
+              "4star": {
+                "single": 2284.8,
+                "twin": 1142.4,
+                "child": 467.28
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3624.0,
+                "10": 3039.0,
+                "12": 2649.0,
+                "14": 2370.429,
+                "16": 2161.5
+              },
+              "4star": {
+                "8": 3819.0,
+                "10": 3234.0,
+                "12": 2844.0,
+                "14": 2565.429,
+                "16": 2356.5
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3624.0,
+                "10": 3039.0,
+                "12": 2649.0,
+                "14": 2370.429,
+                "16": 2161.5
+              },
+              "4star": {
+                "8": 3819.0,
+                "10": 3234.0,
+                "12": 2844.0,
+                "14": 2565.429,
+                "16": 2356.5
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3624.0,
+                "10": 3039.0,
+                "12": 2649.0,
+                "14": 2370.429,
+                "16": 2161.5
+              },
+              "4star": {
+                "8": 3819.0,
+                "10": 3234.0,
+                "12": 2844.0,
+                "14": 2565.429,
+                "16": 2356.5
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3624.0,
+                "10": 3039.0,
+                "12": 2649.0,
+                "14": 2370.429,
+                "16": 2161.5
+              },
+              "4star": {
+                "8": 3819.0,
+                "10": 3234.0,
+                "12": 2844.0,
+                "14": 2565.429,
+                "16": 2356.5
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4.1",
+      "name": "2 Lucerne - 2 Interlaken - 1 Zurich",
+      "region": "switzerland",
+      "duration": "5 nights",
+      "cities": [
+        "Lucerne",
+        "interlaken",
+        "Zurich"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1747.2,
+                "twin": 873.6,
+                "child": 362.52
+              },
+              "4star": {
+                "single": 1999.2,
+                "twin": 999.6,
+                "child": 411.66
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1747.2,
+                "twin": 873.6,
+                "child": 362.52
+              },
+              "4star": {
+                "single": 1999.2,
+                "twin": 999.6,
+                "child": 411.66
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1747.2,
+                "twin": 873.6,
+                "child": 362.52
+              },
+              "4star": {
+                "single": 1999.2,
+                "twin": 999.6,
+                "child": 411.66
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1747.2,
+                "twin": 873.6,
+                "child": 362.52
+              },
+              "4star": {
+                "single": 1999.2,
+                "twin": 999.6,
+                "child": 411.66
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "9.3",
+      "name": "2 Oslo - 1 Flam - 2 Bergen - 2 Stavanger",
+      "region": "scandinavia",
+      "duration": "7 nights",
+      "cities": [],
+      "description": "Oslo, the Fl\u00e5m Railway, Bergen and Stavanger's oil history and Preikestolen cliff on a seven-night Norway circuit.",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8.3",
+      "name": "4 Reykjavik - 3 Akureyri - flight",
+      "region": "scandinavia",
+      "duration": "7 nights",
+      "cities": [],
+      "description": "Reykjavik's Golden Circle and northern Iceland's whale-watching capital Akureyri in a seven-night fly-drive with an internal flight.",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "9.2",
+      "name": "2 Oslo - 1 Flam - 2 Bergen",
+      "region": "scandinavia",
+      "duration": "5 nights",
+      "cities": [],
+      "description": "Oslo's fjord city, the Fl\u00e5m Railway through the Aurlandsfjord and Bergen's colourful Bryggen wharf on a five-night Norway classic.",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "10.4",
+      "name": "7 Tromso (Oslo pre/post), winter",
+      "region": "scandinavia",
+      "duration": "7 nights",
+      "cities": [
+        "Tromso"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              },
+              "4star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              },
+              "4star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              },
+              "4star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              },
+              "4star": {
+                "single": 3318.279,
+                "twin": 1659.14,
+                "child": 666.786
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1.1",
+      "name": "3 London private",
+      "region": "uk-ireland",
+      "duration": "3 nights",
+      "cities": [
+        "London"
+      ],
+      "description": "",
+      "pricing": {
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 672.0,
+                "10": 618.48,
+                "12": 582.8,
+                "14": 557.314,
+                "16": 538.2
+              },
+              "4star": {
+                "8": 744.0,
+                "10": 690.48,
+                "12": 654.8,
+                "14": 629.314,
+                "16": 610.2
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 672.0,
+                "10": 618.48,
+                "12": 582.8,
+                "14": 557.314,
+                "16": 538.2
+              },
+              "4star": {
+                "8": 744.0,
+                "10": 690.48,
+                "12": 654.8,
+                "14": 629.314,
+                "16": 610.2
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 672.0,
+                "10": 618.48,
+                "12": 582.8,
+                "14": 557.314,
+                "16": 538.2
+              },
+              "4star": {
+                "8": 744.0,
+                "10": 690.48,
+                "12": 654.8,
+                "14": 629.314,
+                "16": 610.2
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 672.0,
+                "10": 618.48,
+                "12": 582.8,
+                "14": 557.314,
+                "16": 538.2
+              },
+              "4star": {
+                "8": 744.0,
+                "10": 690.48,
+                "12": 654.8,
+                "14": 629.314,
+                "16": 610.2
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2.1",
+      "name": "Paris & Switzerland",
+      "region": "multi-country/western-central-europe",
+      "duration": "7 nights / 8 days",
+      "cities": [
+        "Paris",
+        "Lucerne",
+        "Zurich"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3226.8,
+                "twin": 1613.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3754.8,
+                "twin": 1877.4,
+                "child": 704.52
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3226.8,
+                "twin": 1613.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3754.8,
+                "twin": 1877.4,
+                "child": 704.52
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3226.8,
+                "twin": 1613.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3754.8,
+                "twin": 1877.4,
+                "child": 704.52
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3226.8,
+                "twin": 1613.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3754.8,
+                "twin": 1877.4,
+                "child": 704.52
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2058.6,
+                "10": 1845.6,
+                "12": 1703.6,
+                "14": 1602.171,
+                "16": 1526.1
+              },
+              "4star": {
+                "8": 2322.6,
+                "10": 2109.6,
+                "12": 1967.6,
+                "14": 1866.171,
+                "16": 1790.1
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2058.6,
+                "10": 1845.6,
+                "12": 1703.6,
+                "14": 1602.171,
+                "16": 1526.1
+              },
+              "4star": {
+                "8": 2322.6,
+                "10": 2109.6,
+                "12": 1967.6,
+                "14": 1866.171,
+                "16": 1790.1
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 2058.6,
+                "10": 1845.6,
+                "12": 1703.6,
+                "14": 1602.171,
+                "16": 1526.1
+              },
+              "4star": {
+                "8": 2322.6,
+                "10": 2109.6,
+                "12": 1967.6,
+                "14": 1866.171,
+                "16": 1790.1
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 2058.6,
+                "10": 1845.6,
+                "12": 1703.6,
+                "14": 1602.171,
+                "16": 1526.1
+              },
+              "4star": {
+                "8": 2322.6,
+                "10": 2109.6,
+                "12": 1967.6,
+                "14": 1866.171,
+                "16": 1790.1
+              }
+            }
+          }
+        },
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2112.0,
+                "twin": 1056.0,
+                "child": 411.84
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2112.0,
+                "twin": 1056.0,
+                "child": 411.84
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2112.0,
+                "twin": 1056.0,
+                "child": 411.84
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 308.88
+              },
+              "4star": {
+                "single": 2112.0,
+                "twin": 1056.0,
+                "child": 411.84
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3.3",
+      "name": "2 Cagliari - 2 Cala Gonone - 2 Alghero - 1 Olbia",
+      "region": "italy",
+      "duration": "7 nights",
+      "cities": [
+        "Cagliari",
+        "Cala Gonone",
+        "Alghero",
+        "Olbia"
+      ],
+      "description": "Sardinia's wild east coast, the Gulf of Orosei's sea caves, Alghero's Spanish old town and the Costa Smeralda on a week-long self-drive island circuit.",
+      "pricing": {
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1932.0,
+                "twin": 966.0,
+                "child": 264.42
+              },
+              "4star": {
+                "single": 2040.0,
+                "twin": 1020.0,
+                "child": 285.48
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1932.0,
+                "twin": 966.0,
+                "child": 264.42
+              },
+              "4star": {
+                "single": 2040.0,
+                "twin": 1020.0,
+                "child": 285.48
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1932.0,
+                "twin": 966.0,
+                "child": 264.42
+              },
+              "4star": {
+                "single": 2040.0,
+                "twin": 1020.0,
+                "child": 285.48
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1932.0,
+                "twin": 966.0,
+                "child": 264.42
+              },
+              "4star": {
+                "single": 2040.0,
+                "twin": 1020.0,
+                "child": 285.48
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "5.2",
+      "name": "2 Paris - 2 Bayeux - 2 Tours - 1 Paris",
+      "region": "france",
+      "duration": "None nights",
+      "cities": [
+        "Paris",
+        "Bayeux",
+        "Tours",
+        "Paris"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 351.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 351.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 351.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1584.0,
+                "twin": 792.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2004.0,
+                "twin": 1002.0,
+                "child": 351.0
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3379.5,
+                "10": 2844.0,
+                "12": 2487.0,
+                "14": 2232.0,
+                "16": 2040.75
+              },
+              "4star": {
+                "8": 3589.5,
+                "10": 3054.0,
+                "12": 2697.0,
+                "14": 2442.0,
+                "16": 2250.75
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3379.5,
+                "10": 2844.0,
+                "12": 2487.0,
+                "14": 2232.0,
+                "16": 2040.75
+              },
+              "4star": {
+                "8": 3589.5,
+                "10": 3054.0,
+                "12": 2697.0,
+                "14": 2442.0,
+                "16": 2250.75
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3379.5,
+                "10": 2844.0,
+                "12": 2487.0,
+                "14": 2232.0,
+                "16": 2040.75
+              },
+              "4star": {
+                "8": 3589.5,
+                "10": 3054.0,
+                "12": 2697.0,
+                "14": 2442.0,
+                "16": 2250.75
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3379.5,
+                "10": 2844.0,
+                "12": 2487.0,
+                "14": 2232.0,
+                "16": 2040.75
+              },
+              "4star": {
+                "8": 3589.5,
+                "10": 3054.0,
+                "12": 2697.0,
+                "14": 2442.0,
+                "16": 2250.75
+              }
+            }
+          }
+        },
+        "self_drive": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2184.0,
+                "twin": 1092.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2604.0,
+                "twin": 1302.0,
+                "child": 351.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2184.0,
+                "twin": 1092.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2604.0,
+                "twin": 1302.0,
+                "child": 351.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2184.0,
+                "twin": 1092.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2604.0,
+                "twin": 1302.0,
+                "child": 351.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2184.0,
+                "twin": 1092.0,
+                "child": 269.1
+              },
+              "4star": {
+                "single": 2604.0,
+                "twin": 1302.0,
+                "child": 351.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1.3",
+      "name": "3 London - 1 Glasgow - 2 Inverness - 2 Edinburgh",
+      "region": "uk-ireland",
+      "duration": "8 nights",
+      "cities": [
+        "London",
+        "Glasgow",
+        "Inverness",
+        "Edinburgh"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1639.2,
+                "twin": 819.6,
+                "child": 283.302
+              },
+              "4star": {
+                "single": 1887.6,
+                "twin": 943.8,
+                "child": 331.74
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1639.2,
+                "twin": 819.6,
+                "child": 283.302
+              },
+              "4star": {
+                "single": 1887.6,
+                "twin": 943.8,
+                "child": 331.74
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1639.2,
+                "twin": 819.6,
+                "child": 283.302
+              },
+              "4star": {
+                "single": 1887.6,
+                "twin": 943.8,
+                "child": 331.74
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1639.2,
+                "twin": 819.6,
+                "child": 283.302
+              },
+              "4star": {
+                "single": 1887.6,
+                "twin": 943.8,
+                "child": 331.74
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "6.2",
+      "name": "3 Madrid - 3 Barcelona",
+      "region": "spain-portugal",
+      "duration": "6 nights",
+      "cities": [],
+      "description": "Three nights in Madrid's Habsburg quarter, three nights in Barcelona's modernist masterpieces \u2014 Spain's two great cities with a dedicated private vehicle.",
+      "pricing": {
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              },
+              "4star": {
+                "8": 0.0,
+                "10": 0.0,
+                "12": 0.0,
+                "14": 0.0,
+                "16": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2.2",
+      "name": "2 Paris - 3 Lucerne - 2 Innsbruck - 2 Vienna",
+      "region": "western-central-europe",
+      "duration": "9 nights",
+      "cities": [
+        "Paris",
+        "Lucerne",
+        "Innsbruck",
+        "Vienna"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3052.8,
+                "twin": 1526.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3526.8,
+                "twin": 1763.4,
+                "child": 693.99
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3052.8,
+                "twin": 1526.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3526.8,
+                "twin": 1763.4,
+                "child": 693.99
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 3052.8,
+                "twin": 1526.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3526.8,
+                "twin": 1763.4,
+                "child": 693.99
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 3052.8,
+                "twin": 1526.4,
+                "child": 601.56
+              },
+              "4star": {
+                "single": 3526.8,
+                "twin": 1763.4,
+                "child": 693.99
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3516.6,
+                "10": 3009.6,
+                "12": 2671.6,
+                "14": 2430.171,
+                "16": 2249.1
+              },
+              "4star": {
+                "8": 3753.6,
+                "10": 3246.6,
+                "12": 2908.6,
+                "14": 2667.171,
+                "16": 2486.1
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3516.6,
+                "10": 3009.6,
+                "12": 2671.6,
+                "14": 2430.171,
+                "16": 2249.1
+              },
+              "4star": {
+                "8": 3753.6,
+                "10": 3246.6,
+                "12": 2908.6,
+                "14": 2667.171,
+                "16": 2486.1
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 3516.6,
+                "10": 3009.6,
+                "12": 2671.6,
+                "14": 2430.171,
+                "16": 2249.1
+              },
+              "4star": {
+                "8": 3753.6,
+                "10": 3246.6,
+                "12": 2908.6,
+                "14": 2667.171,
+                "16": 2486.1
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 3516.6,
+                "10": 3009.6,
+                "12": 2671.6,
+                "14": 2430.171,
+                "16": 2249.1
+              },
+              "4star": {
+                "8": 3753.6,
+                "10": 3246.6,
+                "12": 2908.6,
+                "14": 2667.171,
+                "16": 2486.1
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5",
+      "name": "4 Kiruna (Stockholm pre/post), winter",
+      "region": "scandinavia",
+      "duration": "4 nights",
+      "cities": [
+        "Kiruna"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2947.992,
+                "twin": 1473.996,
+                "child": 592.558
+              },
+              "4star": {
+                "single": 3187.992,
+                "twin": 1593.996,
+                "child": 639.358
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2947.992,
+                "twin": 1473.996,
+                "child": 592.558
+              },
+              "4star": {
+                "single": 3187.992,
+                "twin": 1593.996,
+                "child": 639.358
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2947.992,
+                "twin": 1473.996,
+                "child": 592.558
+              },
+              "4star": {
+                "single": 3187.992,
+                "twin": 1593.996,
+                "child": 639.358
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2947.992,
+                "twin": 1473.996,
+                "child": 592.558
+              },
+              "4star": {
+                "single": 3187.992,
+                "twin": 1593.996,
+                "child": 639.358
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "10.3",
+      "name": "4 Tromso (Oslo pre/post), winter",
+      "region": "scandinavia",
+      "duration": "4 nights",
+      "cities": [
+        "Tromso"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              },
+              "4star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              },
+              "4star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              },
+              "4star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              },
+              "4star": {
+                "single": 2420.883,
+                "twin": 1210.441,
+                "child": 464.872
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8.2",
+      "name": "4 Reykjavik",
+      "region": "scandinavia",
+      "duration": "4 nights",
+      "cities": [],
+      "description": "Four nights in Reykjavik \u2014 the Golden Circle, the Blue Lagoon, whale watching and the Northern Lights on a regular FIT city programme.",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              },
+              "4star": {
+                "single": 0.0,
+                "twin": 0.0,
+                "child": 0.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6",
+      "name": "4 Kiruna - 3 Abisko (Stockholm Pre/post), winter",
+      "region": "scandinavia",
+      "duration": "7 nights",
+      "cities": [
+        "Kiruna",
+        "Abisko"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 4553.989,
+                "twin": 2276.994,
+                "child": 832.228
+              },
+              "4star": {
+                "single": 4793.989,
+                "twin": 2396.994,
+                "child": 879.028
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 4553.989,
+                "twin": 2276.994,
+                "child": 832.228
+              },
+              "4star": {
+                "single": 4793.989,
+                "twin": 2396.994,
+                "child": 879.028
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 4553.989,
+                "twin": 2276.994,
+                "child": 832.228
+              },
+              "4star": {
+                "single": 4793.989,
+                "twin": 2396.994,
+                "child": 879.028
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 4553.989,
+                "twin": 2276.994,
+                "child": 832.228
+              },
+              "4star": {
+                "single": 4793.989,
+                "twin": 2396.994,
+                "child": 879.028
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7.1",
+      "name": "2 Prague - 2 Vienna - 2 Budapest",
+      "region": "other",
+      "duration": "6 nights",
+      "cities": [
+        "Prague",
+        "Vienna",
+        "Budapest"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1528.8,
+                "twin": 764.4,
+                "child": 278.55
+              },
+              "4star": {
+                "single": 1672.8,
+                "twin": 836.4,
+                "child": 306.63
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1528.8,
+                "twin": 764.4,
+                "child": 278.55
+              },
+              "4star": {
+                "single": 1672.8,
+                "twin": 836.4,
+                "child": 306.63
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1528.8,
+                "twin": 764.4,
+                "child": 278.55
+              },
+              "4star": {
+                "single": 1672.8,
+                "twin": 836.4,
+                "child": 306.63
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1528.8,
+                "twin": 764.4,
+                "child": 278.55
+              },
+              "4star": {
+                "single": 1672.8,
+                "twin": 836.4,
+                "child": 306.63
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 1592.7,
+                "10": 1360.2,
+                "12": 1205.2,
+                "14": 1094.486,
+                "16": 1011.45
+              },
+              "4star": {
+                "8": 1664.7,
+                "10": 1432.2,
+                "12": 1277.2,
+                "14": 1166.486,
+                "16": 1083.45
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 1592.7,
+                "10": 1360.2,
+                "12": 1205.2,
+                "14": 1094.486,
+                "16": 1011.45
+              },
+              "4star": {
+                "8": 1664.7,
+                "10": 1432.2,
+                "12": 1277.2,
+                "14": 1166.486,
+                "16": 1083.45
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 1592.7,
+                "10": 1360.2,
+                "12": 1205.2,
+                "14": 1094.486,
+                "16": 1011.45
+              },
+              "4star": {
+                "8": 1664.7,
+                "10": 1432.2,
+                "12": 1277.2,
+                "14": 1166.486,
+                "16": 1083.45
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 1592.7,
+                "10": 1360.2,
+                "12": 1205.2,
+                "14": 1094.486,
+                "16": 1011.45
+              },
+              "4star": {
+                "8": 1664.7,
+                "10": 1432.2,
+                "12": 1277.2,
+                "14": 1166.486,
+                "16": 1083.45
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3.2",
+      "name": "2 Rome - 2 Naples - 2 Florence - 2 Venice - 2 Milan",
+      "region": "italy",
+      "duration": "10 nights",
+      "cities": [
+        "Rome",
+        "Naples",
+        "Florence",
+        "Mestre",
+        "Milan"
+      ],
+      "description": "",
+      "pricing": {
+        "regular_fit": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 273.42
+              },
+              "4star": {
+                "single": 1986.0,
+                "twin": 993.0,
+                "child": 368.19
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 273.42
+              },
+              "4star": {
+                "single": 1986.0,
+                "twin": 993.0,
+                "child": 368.19
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 273.42
+              },
+              "4star": {
+                "single": 1986.0,
+                "twin": 993.0,
+                "child": 368.19
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "single": 1500.0,
+                "twin": 750.0,
+                "child": 273.42
+              },
+              "4star": {
+                "single": 1986.0,
+                "twin": 993.0,
+                "child": 368.19
+              }
+            }
+          }
+        },
+        "private": {
+          "Premium": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 4023.0,
+                "10": 3324.0,
+                "12": 2858.0,
+                "14": 2525.143,
+                "16": 2275.5
+              },
+              "4star": {
+                "8": 4266.0,
+                "10": 3567.0,
+                "12": 3101.0,
+                "14": 2768.143,
+                "16": 2518.5
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 4023.0,
+                "10": 3324.0,
+                "12": 2858.0,
+                "14": 2525.143,
+                "16": 2275.5
+              },
+              "4star": {
+                "8": 4266.0,
+                "10": 3567.0,
+                "12": 3101.0,
+                "14": 2768.143,
+                "16": 2518.5
+              }
+            }
+          },
+          "Standard": {
+            "winter": {
+              "date_start": "2025-11-01",
+              "date_end": "2026-03-31",
+              "3star": {
+                "8": 4023.0,
+                "10": 3324.0,
+                "12": 2858.0,
+                "14": 2525.143,
+                "16": 2275.5
+              },
+              "4star": {
+                "8": 4266.0,
+                "10": 3567.0,
+                "12": 3101.0,
+                "14": 2768.143,
+                "16": 2518.5
+              }
+            },
+            "summer": {
+              "date_start": "2026-04-01",
+              "date_end": "2026-11-30",
+              "3star": {
+                "8": 4023.0,
+                "10": 3324.0,
+                "12": 2858.0,
+                "14": 2525.143,
+                "16": 2275.5
+              },
+              "4star": {
+                "8": 4266.0,
+                "10": 3567.0,
+                "12": 3101.0,
+                "14": 2768.143,
+                "16": 2518.5
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

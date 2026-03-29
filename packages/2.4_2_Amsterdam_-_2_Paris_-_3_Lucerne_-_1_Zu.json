@@ -6,7 +6,18 @@
   "currency": "EUR",
   "winter_only": false,
   "pricing_locked": false,
-  "validity": [],
+  "validity": [
+    {
+      "label": "Winter",
+      "start": "2025-11-01",
+      "end": "2026-03-31"
+    },
+    {
+      "label": "Summer",
+      "start": "2026-04-01",
+      "end": "2026-11-30"
+    }
+  ],
   "markup": {
     "Premium": {
       "winter": 1.2,
@@ -31,7 +42,7 @@
     {
       "city": "Paris",
       "nights": 2,
-      "hotel_3star": "Hôtel Berne Opéra",
+      "hotel_3star": "H\u00f4tel Berne Op\u00e9ra",
       "hotel_4star": "Marceau Bastille",
       "rate_type": "PI",
       "rate_3star": 296.0,
@@ -52,7 +63,7 @@
       "city": "Zurich",
       "nights": 1,
       "hotel_3star": "Montana Hotel",
-      "hotel_4star": "Züri by Fassbind",
+      "hotel_4star": "Z\u00fcri by Fassbind",
       "rate_type": "PI",
       "rate_3star": 145.0,
       "rate_4star": 185.0,
@@ -113,8 +124,66 @@
         }
       ],
       "pricing": {
-        "Premium": {},
-        "Standard": {}
+        "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 3801.6,
+              "twin": 1900.8,
+              "child": 775.26
+            },
+            "4star": {
+              "single": 4281.6,
+              "twin": 2140.8,
+              "child": 868.86
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 3801.6,
+              "twin": 1900.8,
+              "child": 775.26
+            },
+            "4star": {
+              "single": 4281.6,
+              "twin": 2140.8,
+              "child": 868.86
+            }
+          }
+        },
+        "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 3801.6,
+              "twin": 1900.8,
+              "child": 775.26
+            },
+            "4star": {
+              "single": 4281.6,
+              "twin": 2140.8,
+              "child": 868.86
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 3801.6,
+              "twin": 1900.8,
+              "child": 775.26
+            },
+            "4star": {
+              "single": 4281.6,
+              "twin": 2140.8,
+              "child": 868.86
+            }
+          }
+        }
       }
     },
     "private": {
@@ -176,8 +245,82 @@
         }
       ],
       "pricing": {
-        "Premium": {},
-        "Standard": {}
+        "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "8": 3638.1,
+              "10": 3128.4,
+              "12": 2788.6,
+              "14": 2545.886,
+              "16": 2363.85
+            },
+            "4star": {
+              "8": 3878.1,
+              "10": 3368.4,
+              "12": 3028.6,
+              "14": 2785.886,
+              "16": 2603.85
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "8": 3638.1,
+              "10": 3128.4,
+              "12": 2788.6,
+              "14": 2545.886,
+              "16": 2363.85
+            },
+            "4star": {
+              "8": 3878.1,
+              "10": 3368.4,
+              "12": 3028.6,
+              "14": 2785.886,
+              "16": 2603.85
+            }
+          }
+        },
+        "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "8": 3638.1,
+              "10": 3128.4,
+              "12": 2788.6,
+              "14": 2545.886,
+              "16": 2363.85
+            },
+            "4star": {
+              "8": 3878.1,
+              "10": 3368.4,
+              "12": 3028.6,
+              "14": 2785.886,
+              "16": 2603.85
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "8": 3638.1,
+              "10": 3128.4,
+              "12": 2788.6,
+              "14": 2545.886,
+              "16": 2363.85
+            },
+            "4star": {
+              "8": 3878.1,
+              "10": 3368.4,
+              "12": 3028.6,
+              "14": 2785.886,
+              "16": 2603.85
+            }
+          }
+        }
       }
     }
   },

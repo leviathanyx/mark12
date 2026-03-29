@@ -43,7 +43,7 @@
       "city": "Brussels",
       "nights": 2,
       "hotel_3star": "Ibis Styles Brussels Centre Stephanie",
-      "hotel_4star": "NH Brussels Stéphanie",
+      "hotel_4star": "NH Brussels St\u00e9phanie",
       "rate_type": "PI",
       "rate_3star": 300,
       "rate_4star": null,
@@ -52,8 +52,8 @@
     {
       "city": "Maastricht",
       "nights": 1,
-      "hotel_3star": "Amrâth Hotel DuCasque",
-      "hotel_4star": "Amrâth Hotel DuCasque",
+      "hotel_3star": "Amr\u00e2th Hotel DuCasque",
+      "hotel_4star": "Amr\u00e2th Hotel DuCasque",
       "rate_type": "PI",
       "rate_3star": 170,
       "rate_4star": null,
@@ -87,15 +87,15 @@
         }
       ],
       "day_descriptions": {
-        "Day 1": "Fly into Schiphol, collect your rental car and park it — Amsterdam is best explored on foot. The Jordaan neighbourhood, the canals and Vondelpark reward an unhurried first evening.",
+        "Day 1": "Fly into Schiphol, collect your rental car and park it \u2014 Amsterdam is best explored on foot. The Jordaan neighbourhood, the canals and Vondelpark reward an unhurried first evening.",
         "Day 2": "A full day in Amsterdam. Anne Frank House, Van Gogh Museum, canal cruise or just wandering the nine streets. All optional.",
         "Day 3": "Zaanse Schans windmills, Volendam harbour and a cheese farm visit. Back to Amsterdam for a final evening.",
         "Day 4": "Drive south through Delft and The Hague before arriving in Bruges by evening. The medieval belfry and canal reflections are best seen at dusk.",
-        "Day 5": "A full day in Bruges on foot — the Belfry tower, the St John medieval hospital, the Begijnhof. One of the best-preserved medieval cities in Europe.",
+        "Day 5": "A full day in Bruges on foot \u2014 the Belfry tower, the St John medieval hospital, the Begijnhof. One of the best-preserved medieval cities in Europe.",
         "Day 6": "Day trip to Ypres. In Flanders Fields Museum, the WW1 trenches at Hill 62, and the Menin Gate Last Post ceremony at 8pm.",
-        "Day 7": "Drive via Ghent (half day — the Gravensteen castle, Graslei quay) to Brussels for the evening.",
+        "Day 7": "Drive via Ghent (half day \u2014 the Gravensteen castle, Graslei quay) to Brussels for the evening.",
         "Day 8": "A full day in Brussels. The Grand Place, Atomium, Manneken Pis and the best moules-frites in Belgium.",
-        "Day 9": "Brussels to Maastricht via Leuven. Maastricht is the Netherlands' most Burgundian city — limestone caves, Vrijthof square, exceptional food.",
+        "Day 9": "Brussels to Maastricht via Leuven. Maastricht is the Netherlands' most Burgundian city \u2014 limestone caves, Vrijthof square, exceptional food.",
         "Day 10": "Maastricht to Amsterdam. Return car at Schiphol. Fly home."
       },
       "pricing": {
@@ -104,28 +104,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": 1770,
-              "twin": 885,
-              "child": 345
+              "single": 2802.0,
+              "twin": 1401.0,
+              "child": 382.59
             },
             "4star": {
-              "single": 2148,
-              "twin": 1074,
-              "child": 419
+              "single": 3252.0,
+              "twin": 1626.0,
+              "child": 470.34
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": 1844,
-              "twin": 922,
-              "child": 360
+              "single": 2802.0,
+              "twin": 1401.0,
+              "child": 382.59
             },
             "4star": {
-              "single": 2238,
-              "twin": 1119,
-              "child": 436
+              "single": 3252.0,
+              "twin": 1626.0,
+              "child": 470.34
             }
           }
         },
@@ -134,28 +134,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": 1623,
-              "twin": 811,
-              "child": 316
+              "single": 2802.0,
+              "twin": 1401.0,
+              "child": 382.59
             },
             "4star": {
-              "single": 1969,
-              "twin": 985,
-              "child": 384
+              "single": 3252.0,
+              "twin": 1626.0,
+              "child": 470.34
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": 1696,
-              "twin": 848,
-              "child": 331
+              "single": 2802.0,
+              "twin": 1401.0,
+              "child": 382.59
             },
             "4star": {
-              "single": 2059,
-              "twin": 1029,
-              "child": 401
+              "single": 3252.0,
+              "twin": 1626.0,
+              "child": 470.34
             }
           }
         }

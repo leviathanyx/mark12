@@ -6,7 +6,18 @@
   "currency": "EUR",
   "winter_only": true,
   "pricing_locked": false,
-  "validity": [],
+  "validity": [
+    {
+      "label": "Winter",
+      "start": "2025-11-01",
+      "end": "2026-03-31"
+    },
+    {
+      "label": "Summer",
+      "start": "2026-04-01",
+      "end": "2026-11-30"
+    }
+  ],
   "markup": {
     "Premium": {
       "winter": 1.2,
@@ -65,7 +76,7 @@
         },
         {
           "day": "Day 3",
-          "description": "Tour to the iconic ICEHOTEL & Jukkasjärvi, 3 hours",
+          "description": "Tour to the iconic ICEHOTEL & Jukkasj\u00e4rvi, 3 hours",
           "rate_type": "PP",
           "rate": 1800.0,
           "currency": "SEK"
@@ -107,8 +118,66 @@
         }
       ],
       "pricing": {
-        "Premium": {},
-        "Standard": {}
+        "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 4553.989,
+              "twin": 2276.994,
+              "child": 832.228
+            },
+            "4star": {
+              "single": 4793.989,
+              "twin": 2396.994,
+              "child": 879.028
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 4553.989,
+              "twin": 2276.994,
+              "child": 832.228
+            },
+            "4star": {
+              "single": 4793.989,
+              "twin": 2396.994,
+              "child": 879.028
+            }
+          }
+        },
+        "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 4553.989,
+              "twin": 2276.994,
+              "child": 832.228
+            },
+            "4star": {
+              "single": 4793.989,
+              "twin": 2396.994,
+              "child": 879.028
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 4553.989,
+              "twin": 2276.994,
+              "child": 832.228
+            },
+            "4star": {
+              "single": 4793.989,
+              "twin": 2396.994,
+              "child": 879.028
+            }
+          }
+        }
       }
     }
   },

@@ -23,12 +23,12 @@
     "regular_fit": {
       "services": [],
       "day_descriptions": {
-        "Day 1": "Arrive Zagreb. Croatia's compact capital rewards an evening walk through the Upper Town — St Mark's Church, the Lotrščak Tower and the Stone Gate.",
+        "Day 1": "Arrive Zagreb. Croatia's compact capital rewards an evening walk through the Upper Town \u2014 St Mark's Church, the Lotr\u0161\u010dak Tower and the Stone Gate.",
         "Day 2": "Transfer to Zadar. The sea organ and the Sun Salutation installation make for a memorable sunset. Roman ruins and medieval churches fill the old town.",
         "Day 3": "Day at leisure in Zadar or optional Plitvice Lakes excursion.",
-        "Day 4": "Transfer to Split. Diocletian's Palace is one of the best-preserved Roman monuments in the world — and people still live inside it.",
+        "Day 4": "Transfer to Split. Diocletian's Palace is one of the best-preserved Roman monuments in the world \u2014 and people still live inside it.",
         "Day 5": "Transfer to Dubrovnik. The Adriatic's most dramatic city announces itself as you round the final bend on the coastal road.",
-        "Day 6": "Walk the city walls — two kilometres of medieval fortifications above a turquoise sea. The old town within is entirely car-free.",
+        "Day 6": "Walk the city walls \u2014 two kilometres of medieval fortifications above a turquoise sea. The old town within is entirely car-free.",
         "Day 7": "Depart Dubrovnik airport."
       },
       "pricing": {
@@ -37,28 +37,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         },
@@ -67,28 +67,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         }
@@ -102,24 +102,76 @@
           "winter": {
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
-            "rows": []
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
-            "rows": []
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           }
         },
         "Standard": {
           "winter": {
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
-            "rows": []
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
-            "rows": []
+            "3star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            },
+            "4star": {
+              "8": 0.0,
+              "10": 0.0,
+              "12": 0.0,
+              "14": 0.0,
+              "16": 0.0
+            }
           }
         }
       }

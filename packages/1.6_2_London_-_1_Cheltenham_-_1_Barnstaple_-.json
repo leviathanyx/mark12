@@ -22,7 +22,7 @@
     {
       "city": "London",
       "nights": 2,
-      "hotel_3star": "ibis London Shepherds Bush – Hammersmith",
+      "hotel_3star": "ibis London Shepherds Bush \u2013 Hammersmith",
       "hotel_4star": "Novotel London West",
       "rate_type": "PI",
       "rate_3star": 340,
@@ -127,7 +127,7 @@
         "Day 1": "Arrive London. Explore Borough Market and the South Bank on foot. Stay Hammersmith/Shepherds Bush.",
         "Day 2": "Pick up your rental car and head to the Cotswolds. Sunday roast in a village pub. Overnight Cheltenham.",
         "Day 3": "Drive via Bath and Glastonbury to the north Devon coast. Woolacombe beach. Overnight Barnstaple.",
-        "Day 4": "Tintagel Castle — King Arthur's legendary birthplace — then south to St Ives. Overnight Truro.",
+        "Day 4": "Tintagel Castle \u2014 King Arthur's legendary birthplace \u2014 then south to St Ives. Overnight Truro.",
         "Day 5": "Land's End, the Minack cliff-top theatre, Penzance and St Michael's Mount, Lizard Peninsula. Overnight Truro/Falmouth.",
         "Day 6": "Alder Vineyard, Tavistock on Dartmoor, Plymouth Hoe, the Barbican and the Mayflower Steps. Overnight Plymouth.",
         "Day 7": "Slapton Sands D-Day training beach, Dartmouth, Buckfast Abbey. Overnight Exeter.",
@@ -141,28 +141,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": 1752,
-              "twin": 876,
-              "child": 342
+              "single": 2676.0,
+              "twin": 1338.0,
+              "child": 343.98
             },
             "4star": {
-              "single": 2340,
-              "twin": 1170,
-              "child": 456
+              "single": 3120.0,
+              "twin": 1560.0,
+              "child": 430.56
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": 1825,
-              "twin": 913,
-              "child": 356
+              "single": 2676.0,
+              "twin": 1338.0,
+              "child": 343.98
             },
             "4star": {
-              "single": 2438,
-              "twin": 1219,
-              "child": 475
+              "single": 3120.0,
+              "twin": 1560.0,
+              "child": 430.56
             }
           }
         },
@@ -171,28 +171,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": 1606,
-              "twin": 803,
-              "child": 313
+              "single": 2676.0,
+              "twin": 1338.0,
+              "child": 343.98
             },
             "4star": {
-              "single": 2145,
-              "twin": 1073,
-              "child": 418
+              "single": 3120.0,
+              "twin": 1560.0,
+              "child": 430.56
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": 1679,
-              "twin": 840,
-              "child": 327
+              "single": 2676.0,
+              "twin": 1338.0,
+              "child": 343.98
             },
             "4star": {
-              "single": 2243,
-              "twin": 1121,
-              "child": 437
+              "single": 3120.0,
+              "twin": 1560.0,
+              "child": 430.56
             }
           }
         }
@@ -241,5 +241,5 @@
       "currency": "GBP"
     }
   ],
-  "description": "England's secret southwest — the Cotswolds, King Arthur's Tintagel, Lands End, the Jurassic Coast, Stonehenge and Windsor on one spectacular self-drive loop."
+  "description": "England's secret southwest \u2014 the Cotswolds, King Arthur's Tintagel, Lands End, the Jurassic Coast, Stonehenge and Windsor on one spectacular self-drive loop."
 }

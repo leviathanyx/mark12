@@ -8,6 +8,11 @@
   "pricing_locked": false,
   "validity": [
     {
+      "label": "Winter",
+      "start": "2025-11-01",
+      "end": "2026-03-31"
+    },
+    {
       "label": "Summer",
       "start": "2026-04-01",
       "end": "2026-11-30"
@@ -23,45 +28,73 @@
       },
       "services": [],
       "day_descriptions": {
-        "Day 1": "Arrive Reykjavik. The world's northernmost capital is small enough to walk — Hallgrímskirkja church, the harbour, the Harpa concert hall. Overnight Reykjavik.",
-        "Day 2": "Drive the Golden Circle: Þingvellir National Park, the Geysir geothermal area and Gullfoss waterfall. Then north to Akureyri. Overnight Akureyri.",
-        "Day 3": "Lake Myvatn's otherworldly landscape — pseudo craters, lava formations, geothermal mud pools and the Dimmuborgir lava labyrinth. Overnight Myvatn.",
-        "Day 4": "Drive east through the dramatic highlands to the Eastfjords. Overnight Egilsstaðir.",
-        "Day 5": "Continue south along the ring road to Höfn, gateway to the Vatnajökull glacier and the Jökulsárlón glacier lagoon — icebergs calving into the sea. Overnight Höfn.",
-        "Day 6": "Drive west past black sand beaches and the remarkable Reynisfjara sea stacks to Vík. The South Coast at its most dramatic. Overnight Vík.",
-        "Day 7": "Return to Reykjavik via Seljalandsfoss and Skógafoss waterfalls.",
+        "Day 1": "Arrive Reykjavik. The world's northernmost capital is small enough to walk \u2014 Hallgr\u00edmskirkja church, the harbour, the Harpa concert hall. Overnight Reykjavik.",
+        "Day 2": "Drive the Golden Circle: \u00deingvellir National Park, the Geysir geothermal area and Gullfoss waterfall. Then north to Akureyri. Overnight Akureyri.",
+        "Day 3": "Lake Myvatn's otherworldly landscape \u2014 pseudo craters, lava formations, geothermal mud pools and the Dimmuborgir lava labyrinth. Overnight Myvatn.",
+        "Day 4": "Drive east through the dramatic highlands to the Eastfjords. Overnight Egilssta\u00f0ir.",
+        "Day 5": "Continue south along the ring road to H\u00f6fn, gateway to the Vatnaj\u00f6kull glacier and the J\u00f6kuls\u00e1rl\u00f3n glacier lagoon \u2014 icebergs calving into the sea. Overnight H\u00f6fn.",
+        "Day 6": "Drive west past black sand beaches and the remarkable Reynisfjara sea stacks to V\u00edk. The South Coast at its most dramatic. Overnight V\u00edk.",
+        "Day 7": "Return to Reykjavik via Seljalandsfoss and Sk\u00f3gafoss waterfalls.",
         "Day 8": "Depart Reykjavik Keflavik airport."
       },
       "pricing": {
         "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            },
+            "4star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            }
+          },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         },
         "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            },
+            "4star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            }
+          },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         }
@@ -69,5 +102,5 @@
     }
   },
   "optionals": [],
-  "description": "Iceland's complete ring road: Reykjavik, Akureyri, Lake Myvatn's geothermal fields, the Eastfjords, the Jökulsárlón glacier lagoon, Vík's black beaches."
+  "description": "Iceland's complete ring road: Reykjavik, Akureyri, Lake Myvatn's geothermal fields, the Eastfjords, the J\u00f6kuls\u00e1rl\u00f3n glacier lagoon, V\u00edk's black beaches."
 }

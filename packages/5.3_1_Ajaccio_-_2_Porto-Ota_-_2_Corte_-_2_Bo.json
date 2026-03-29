@@ -32,8 +32,8 @@
     {
       "city": "Porto-Ota",
       "nights": 2,
-      "hotel_3star": "Hôtel Cala di Sole",
-      "hotel_4star": "Hôtel Cala di Sole",
+      "hotel_3star": "H\u00f4tel Cala di Sole",
+      "hotel_4star": "H\u00f4tel Cala di Sole",
       "rate_type": "PI",
       "rate_3star": 260,
       "rate_4star": 260,
@@ -87,14 +87,14 @@
         }
       ],
       "day_descriptions": {
-        "Day 1": "Arrive Ajaccio and collect your rental car. Napoleon's birthplace has a relaxed Italianate charm — the covered market, the Place Foch and the citadel are worth an evening stroll. Overnight Ajaccio.",
-        "Day 2": "Drive north via the breathtaking Calanques de Piana — UNESCO-listed orange granite formations above a deep blue sea. Arrive Porto-Ota. Overnight Porto-Ota.",
-        "Day 3": "Day at leisure. Optional morning boat tour into the Scandola nature reserve — only accessible by sea. Overnight Porto-Ota.",
+        "Day 1": "Arrive Ajaccio and collect your rental car. Napoleon's birthplace has a relaxed Italianate charm \u2014 the covered market, the Place Foch and the citadel are worth an evening stroll. Overnight Ajaccio.",
+        "Day 2": "Drive north via the breathtaking Calanques de Piana \u2014 UNESCO-listed orange granite formations above a deep blue sea. Arrive Porto-Ota. Overnight Porto-Ota.",
+        "Day 3": "Day at leisure. Optional morning boat tour into the Scandola nature reserve \u2014 only accessible by sea. Overnight Porto-Ota.",
         "Day 4": "Drive inland to Corte via the Gorges de Spelunca and the Col de Vergio mountain pass. Corsica's ancient capital sits above a dramatic gorge. Overnight Corte.",
-        "Day 5": "Morning in the Restonica Valley — glacier pools and mountain walking. Afternoon: Corte's citadel and old town. Overnight Corte.",
+        "Day 5": "Morning in the Restonica Valley \u2014 glacier pools and mountain walking. Afternoon: Corte's citadel and old town. Overnight Corte.",
         "Day 6": "Drive the east coast to Bonifacio via Aleria and Porto-Vecchio. Bonifacio's old town sits on white limestone cliffs above the Strait of Bonifacio. Evening walk along the ramparts. Overnight Bonifacio.",
-        "Day 7": "Day at leisure — beaches at Palombaggia or Santa Giulia. Optional boat trip to the Lavezzi Islands. Overnight Bonifacio.",
-        "Day 8": "Drive back to Ajaccio via Sartène. Overnight Ajaccio.",
+        "Day 7": "Day at leisure \u2014 beaches at Palombaggia or Santa Giulia. Optional boat trip to the Lavezzi Islands. Overnight Bonifacio.",
+        "Day 8": "Drive back to Ajaccio via Sart\u00e8ne. Overnight Ajaccio.",
         "Day 9": "Proceed to Ajaccio airport. Return rental car."
       },
       "pricing": {
@@ -103,28 +103,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": 1584,
-              "twin": 792,
-              "child": 309
+              "single": 2364.0,
+              "twin": 1182.0,
+              "child": 308.88
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 2436.0,
+              "twin": 1218.0,
+              "child": 322.92
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": 1650,
-              "twin": 825,
-              "child": 322
+              "single": 2364.0,
+              "twin": 1182.0,
+              "child": 308.88
             },
             "4star": {
-              "single": 2046,
-              "twin": 1218,
-              "child": 498
+              "single": 2436.0,
+              "twin": 1218.0,
+              "child": 322.92
             }
           }
         },
@@ -133,28 +133,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": 1452,
-              "twin": 726,
-              "child": 283
+              "single": 2364.0,
+              "twin": 1182.0,
+              "child": 308.88
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 2436.0,
+              "twin": 1218.0,
+              "child": 322.92
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": 1518,
-              "twin": 759,
-              "child": 296
+              "single": 2364.0,
+              "twin": 1182.0,
+              "child": 308.88
             },
             "4star": {
-              "single": 1876,
-              "twin": 1117,
-              "child": 457
+              "single": 2436.0,
+              "twin": 1218.0,
+              "child": 322.92
             }
           }
         }
@@ -178,5 +178,5 @@
       "currency": "EUR"
     }
   ],
-  "description": "Corsica's dramatic interior — the Calanques de Piana, Spelunca gorge, Restonica valley and the white limestone cliffs of Bonifacio on a self-drive circuit."
+  "description": "Corsica's dramatic interior \u2014 the Calanques de Piana, Spelunca gorge, Restonica valley and the white limestone cliffs of Bonifacio on a self-drive circuit."
 }

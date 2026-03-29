@@ -8,6 +8,11 @@
   "pricing_locked": false,
   "validity": [
     {
+      "label": "Winter",
+      "start": "2025-11-01",
+      "end": "2026-03-31"
+    },
+    {
       "label": "Summer",
       "start": "2026-04-01",
       "end": "2026-11-30"
@@ -65,7 +70,7 @@
       "services": [
         {
           "day": "Day 1",
-          "description": "Arrive Cagliari, pickup rental car at airport. One-way fee payable €75~",
+          "description": "Arrive Cagliari, pickup rental car at airport. One-way fee payable \u20ac75~",
           "rate_type": "PI",
           "rate": 480,
           "currency": "EUR"
@@ -75,7 +80,7 @@
         "Day 1": "Arrive Cagliari, collect your one-way rental car. Explore the Castello district, Bastione Saint Remy and the harbour. Overnight Cagliari.",
         "Day 2": "Visit Villasimius and its marine park. Afternoon at Cala Sinzias or Punta Molentis beach. Overnight Cagliari.",
         "Day 3": "Drive the spectacular SS125 east coast to Cala Gonone. Photo stops at Arbatax's red rocks and the Baunei viewpoint. Overnight Cala Gonone.",
-        "Day 4": "Boat excursion into the Gulf of Orosei — sea caves, hidden beaches and turquoise water only reachable by sea. Overnight Cala Gonone.",
+        "Day 4": "Boat excursion into the Gulf of Orosei \u2014 sea caves, hidden beaches and turquoise water only reachable by sea. Overnight Cala Gonone.",
         "Day 5": "Drive to Alghero via Bosa along the spectacular coastal road. En route: the Nuraghe Nuraddeo Bronze Age site and Bosa castle. Evening in Alghero's Spanish old town. Overnight Alghero.",
         "Day 6": "Day at leisure in Alghero. Neptune's Grotto by boat or the 654 steps. Optional dolphin watching tour. Overnight Alghero.",
         "Day 7": "Drive to Olbia via the Costa Smeralda. En route: Castelsardo, Porto Cervo harbour, Spiaggia del Principe beach. Overnight Olbia.",
@@ -83,34 +88,62 @@
       },
       "pricing": {
         "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 1932.0,
+              "twin": 966.0,
+              "child": 264.42
+            },
+            "4star": {
+              "single": 2040.0,
+              "twin": 1020.0,
+              "child": 285.48
+            }
+          },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": 678,
-              "child": 264
+              "single": 1932.0,
+              "twin": 966.0,
+              "child": 264.42
             },
             "4star": {
-              "single": 1413,
-              "twin": 706,
-              "child": 275
+              "single": 2040.0,
+              "twin": 1020.0,
+              "child": 285.48
             }
           }
         },
         "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 1932.0,
+              "twin": 966.0,
+              "child": 264.42
+            },
+            "4star": {
+              "single": 2040.0,
+              "twin": 1020.0,
+              "child": 285.48
+            }
+          },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": 622,
-              "child": 242
+              "single": 1932.0,
+              "twin": 966.0,
+              "child": 264.42
             },
             "4star": {
-              "single": 1300,
-              "twin": 650,
-              "child": 253
+              "single": 2040.0,
+              "twin": 1020.0,
+              "child": 285.48
             }
           }
         }

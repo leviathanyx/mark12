@@ -8,9 +8,14 @@
   "pricing_locked": false,
   "validity": [
     {
-      "label": "New Year",
-      "start": "2025-12-28",
-      "end": "2026-01-04"
+      "label": "Winter",
+      "start": "2025-11-01",
+      "end": "2026-03-31"
+    },
+    {
+      "label": "Summer",
+      "start": "2026-04-01",
+      "end": "2026-11-30"
     }
   ],
   "hotels": [],
@@ -18,42 +23,70 @@
     "regular_fit": {
       "services": [],
       "day_descriptions": {
-        "Day 1": "Fly Helsinki then onward to Rovaniemi. Transfer to your hotel. Evening in Santa's hometown — the Arctic Circle crossing is marked right at the airport. Overnight Rovaniemi.",
+        "Day 1": "Fly Helsinki then onward to Rovaniemi. Transfer to your hotel. Evening in Santa's hometown \u2014 the Arctic Circle crossing is marked right at the airport. Overnight Rovaniemi.",
         "Day 2": "Reindeer sleigh safari through the Arctic forest. Visit Santa's Village and cross the Arctic Circle officially. Overnight Rovaniemi.",
-        "Day 3": "Husky safari — drive a team of huskies through the taiga. Snowmobile experience. Northern Lights evening excursion. Overnight Rovaniemi.",
+        "Day 3": "Husky safari \u2014 drive a team of huskies through the taiga. Snowmobile experience. Northern Lights evening excursion. Overnight Rovaniemi.",
         "Day 4": "New Year's Eve. Snowshoe walk or cross-country skiing by day. Midnight fireworks over the Kemijoki river. The Arctic sky in winter is extraordinary. Overnight Rovaniemi.",
         "Day 5": "Transfer to Rovaniemi airport. Fly Helsinki for connection home."
       },
       "pricing": {
         "Premium": {
           "winter": {
-            "date_start": "2025-12-28",
-            "date_end": "2026-01-04",
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            },
+            "4star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         },
         "Standard": {
           "winter": {
-            "date_start": "2025-12-28",
-            "date_end": "2026-01-04",
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
+            },
+            "4star": {
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         }
@@ -61,5 +94,5 @@
     }
   },
   "optionals": [],
-  "description": "Rovaniemi at New Year — Santa's hometown, reindeer sleigh rides, husky safaris and midnight fireworks under the Arctic sky."
+  "description": "Rovaniemi at New Year \u2014 Santa's hometown, reindeer sleigh rides, husky safaris and midnight fireworks under the Arctic sky."
 }

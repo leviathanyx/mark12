@@ -7,74 +7,470 @@
   "routing": "Paris - Lucerne - Zurich",
   "currency": "EUR",
   "validity": [
-    { "label": "Winter", "start": "2025-11-01", "end": "2026-03-31" },
-    { "label": "Summer", "start": "2026-04-01", "end": "2026-11-30" }
+    {
+      "label": "Winter",
+      "start": "2025-11-01",
+      "end": "2026-03-31"
+    },
+    {
+      "label": "Summer",
+      "start": "2026-04-01",
+      "end": "2026-11-30"
+    }
   ],
   "markup": {
-    "Premium": { "winter": 1.20, "summer": 1.25 },
-    "Standard": { "winter": 1.10, "summer": 1.15 }
+    "Premium": {
+      "winter": 1.2,
+      "summer": 1.25
+    },
+    "Standard": {
+      "winter": 1.1,
+      "summer": 1.15
+    }
   },
   "hotels": [
-    { "city": "Paris",   "nights": 3, "hotel_3star": "Hôtel Berne Opéra",    "hotel_4star": "Marceau Bastille",                        "rate_type": "PI", "rate_3star": 570, "rate_4star": 750, "currency": "EUR" },
-    { "city": "Lucerne", "nights": 3, "hotel_3star": "Boutique Hotel Karl",   "hotel_4star": "Altstadt Hotel Krone Apartments Luzern",  "rate_type": "PI", "rate_3star": 540, "rate_4star": 750, "currency": "EUR" },
-    { "city": "Zurich",  "nights": 1, "hotel_3star": "Montana Hotel",         "hotel_4star": "Züri by Fassbind",                        "rate_type": "PI", "rate_3star": 210, "rate_4star": 260, "currency": "EUR" }
+    {
+      "city": "Paris",
+      "nights": 3,
+      "hotel_3star": "H\u00f4tel Berne Op\u00e9ra",
+      "hotel_4star": "Marceau Bastille",
+      "rate_type": "PI",
+      "rate_3star": 570,
+      "rate_4star": 750,
+      "currency": "EUR"
+    },
+    {
+      "city": "Lucerne",
+      "nights": 3,
+      "hotel_3star": "Boutique Hotel Karl",
+      "hotel_4star": "Altstadt Hotel Krone Apartments Luzern",
+      "rate_type": "PI",
+      "rate_3star": 540,
+      "rate_4star": 750,
+      "currency": "EUR"
+    },
+    {
+      "city": "Zurich",
+      "nights": 1,
+      "hotel_3star": "Montana Hotel",
+      "hotel_4star": "Z\u00fcri by Fassbind",
+      "rate_type": "PI",
+      "rate_3star": 210,
+      "rate_4star": 260,
+      "currency": "EUR"
+    }
   ],
   "variants": {
     "regular_fit": {
       "days": [
-        { "day": 1, "description": "", "services": [
-          { "description": "Paris airport to Paris hotel private transfer", "rate_type": "PI", "rate": 140, "currency": "EUR" }
-        ]},
-        { "day": 2, "description": "", "services": [
-          { "description": "Paris City Tour, Seine Cruise and Eiffel Tower 2nd Floor, 4 hrs coach tour", "rate_type": "PP", "rate": 89, "currency": "EUR" }
-        ]},
-        { "day": 3, "description": "", "services": [], "optional_day": true },
-        { "day": 4, "description": "", "services": [
-          { "description": "Paris to Lucerne train ticket, II Class", "rate_type": "PP", "rate": 140, "currency": "EUR" },
-          { "description": "Swiss travel pass, consecutive 4 days, II Class", "rate_type": "PP", "rate": 233, "currency": "EUR" }
-        ]},
-        { "day": 5, "description": "", "services": [
-          { "description": "Titlis with pass, Lake Lucerne cruise free with pass", "rate_type": "PP", "rate": 58, "currency": "EUR" }
-        ]},
-        { "day": 6, "description": "", "services": [], "optional_day": true },
-        { "day": 7, "description": "", "services": [
-          { "description": "Lucerne to Zurich train by pass, Rhine Falls", "rate_type": "PP", "rate": 0, "currency": "EUR", "note": "covered by Swiss pass" }
-        ]},
-        { "day": 8, "description": "", "services": [
-          { "description": "Zurich airport departure, no service", "rate_type": "PI", "rate": 145, "currency": "EUR" }
-        ]}
-      ]
+        {
+          "day": 1,
+          "description": "",
+          "services": [
+            {
+              "description": "Paris airport to Paris hotel private transfer",
+              "rate_type": "PI",
+              "rate": 140,
+              "currency": "EUR"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "description": "",
+          "services": [
+            {
+              "description": "Paris City Tour, Seine Cruise and Eiffel Tower 2nd Floor, 4 hrs coach tour",
+              "rate_type": "PP",
+              "rate": 89,
+              "currency": "EUR"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "description": "",
+          "services": [],
+          "optional_day": true
+        },
+        {
+          "day": 4,
+          "description": "",
+          "services": [
+            {
+              "description": "Paris to Lucerne train ticket, II Class",
+              "rate_type": "PP",
+              "rate": 140,
+              "currency": "EUR"
+            },
+            {
+              "description": "Swiss travel pass, consecutive 4 days, II Class",
+              "rate_type": "PP",
+              "rate": 233,
+              "currency": "EUR"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "description": "",
+          "services": [
+            {
+              "description": "Titlis with pass, Lake Lucerne cruise free with pass",
+              "rate_type": "PP",
+              "rate": 58,
+              "currency": "EUR"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "description": "",
+          "services": [],
+          "optional_day": true
+        },
+        {
+          "day": 7,
+          "description": "",
+          "services": [
+            {
+              "description": "Lucerne to Zurich train by pass, Rhine Falls",
+              "rate_type": "PP",
+              "rate": 0,
+              "currency": "EUR",
+              "note": "covered by Swiss pass"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "description": "",
+          "services": [
+            {
+              "description": "Zurich airport departure, no service",
+              "rate_type": "PI",
+              "rate": 145,
+              "currency": "EUR"
+            }
+          ]
+        }
+      ],
+      "pricing": {
+        "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 3226.8,
+              "twin": 1613.4,
+              "child": 601.56
+            },
+            "4star": {
+              "single": 3754.8,
+              "twin": 1877.4,
+              "child": 704.52
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 3226.8,
+              "twin": 1613.4,
+              "child": 601.56
+            },
+            "4star": {
+              "single": 3754.8,
+              "twin": 1877.4,
+              "child": 704.52
+            }
+          }
+        },
+        "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 3226.8,
+              "twin": 1613.4,
+              "child": 601.56
+            },
+            "4star": {
+              "single": 3754.8,
+              "twin": 1877.4,
+              "child": 704.52
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 3226.8,
+              "twin": 1613.4,
+              "child": 601.56
+            },
+            "4star": {
+              "single": 3754.8,
+              "twin": 1877.4,
+              "child": 704.52
+            }
+          }
+        }
+      }
     },
     "private": {
-      "vehicle_cost": { "description": "Private coach on disposal basis from Day 3 till Day 8", "rate_type": "PI", "rate": 6850, "currency": "EUR" },
-      "min_pax": [8, 10, 12, 14, 16],
+      "vehicle_cost": {
+        "description": "Private coach on disposal basis from Day 3 till Day 8",
+        "rate_type": "PI",
+        "rate": 6850,
+        "currency": "EUR"
+      },
+      "min_pax": [
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
       "days": [
-        { "day": 1, "description": "", "services": [
-          { "description": "Paris airport to Paris hotel private transfer", "rate_type": "PP", "rate": 70, "currency": "EUR" }
-        ]},
-        { "day": 2, "description": "", "services": [
-          { "description": "Paris panoramic tour with English speaking guide, 3 hrs", "rate_type": "PI", "rate": 250, "currency": "EUR" },
-          { "description": "Seine river cruise, 1 hour", "rate_type": "PP", "rate": 15, "currency": "EUR" }
-        ]},
-        { "day": 3, "description": "", "services": [] },
-        { "day": 4, "description": "", "services": [] },
-        { "day": 5, "description": "", "services": [
-          { "description": "Titlis and Engelberg", "rate_type": "PP", "rate": 83, "currency": "EUR" }
-        ]},
-        { "day": 6, "description": "", "services": [] },
-        { "day": 7, "description": "", "services": [] },
-        { "day": 8, "description": "", "services": [] }
-      ]
+        {
+          "day": 1,
+          "description": "",
+          "services": [
+            {
+              "description": "Paris airport to Paris hotel private transfer",
+              "rate_type": "PP",
+              "rate": 70,
+              "currency": "EUR"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "description": "",
+          "services": [
+            {
+              "description": "Paris panoramic tour with English speaking guide, 3 hrs",
+              "rate_type": "PI",
+              "rate": 250,
+              "currency": "EUR"
+            },
+            {
+              "description": "Seine river cruise, 1 hour",
+              "rate_type": "PP",
+              "rate": 15,
+              "currency": "EUR"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "description": "",
+          "services": []
+        },
+        {
+          "day": 4,
+          "description": "",
+          "services": []
+        },
+        {
+          "day": 5,
+          "description": "",
+          "services": [
+            {
+              "description": "Titlis and Engelberg",
+              "rate_type": "PP",
+              "rate": 83,
+              "currency": "EUR"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "description": "",
+          "services": []
+        },
+        {
+          "day": 7,
+          "description": "",
+          "services": []
+        },
+        {
+          "day": 8,
+          "description": "",
+          "services": []
+        }
+      ],
+      "pricing": {
+        "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "8": 2058.6,
+              "10": 1845.6,
+              "12": 1703.6,
+              "14": 1602.171,
+              "16": 1526.1
+            },
+            "4star": {
+              "8": 2322.6,
+              "10": 2109.6,
+              "12": 1967.6,
+              "14": 1866.171,
+              "16": 1790.1
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "8": 2058.6,
+              "10": 1845.6,
+              "12": 1703.6,
+              "14": 1602.171,
+              "16": 1526.1
+            },
+            "4star": {
+              "8": 2322.6,
+              "10": 2109.6,
+              "12": 1967.6,
+              "14": 1866.171,
+              "16": 1790.1
+            }
+          }
+        },
+        "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "8": 2058.6,
+              "10": 1845.6,
+              "12": 1703.6,
+              "14": 1602.171,
+              "16": 1526.1
+            },
+            "4star": {
+              "8": 2322.6,
+              "10": 2109.6,
+              "12": 1967.6,
+              "14": 1866.171,
+              "16": 1790.1
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "8": 2058.6,
+              "10": 1845.6,
+              "12": 1703.6,
+              "14": 1602.171,
+              "16": 1526.1
+            },
+            "4star": {
+              "8": 2322.6,
+              "10": 2109.6,
+              "12": 1967.6,
+              "14": 1866.171,
+              "16": 1790.1
+            }
+          }
+        }
+      }
     },
     "self_drive": {
-      "days": []
+      "days": [],
+      "pricing": {
+        "Premium": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 1584.0,
+              "twin": 792.0,
+              "child": 308.88
+            },
+            "4star": {
+              "single": 2112.0,
+              "twin": 1056.0,
+              "child": 411.84
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 1584.0,
+              "twin": 792.0,
+              "child": 308.88
+            },
+            "4star": {
+              "single": 2112.0,
+              "twin": 1056.0,
+              "child": 411.84
+            }
+          }
+        },
+        "Standard": {
+          "winter": {
+            "date_start": "2025-11-01",
+            "date_end": "2026-03-31",
+            "3star": {
+              "single": 1584.0,
+              "twin": 792.0,
+              "child": 308.88
+            },
+            "4star": {
+              "single": 2112.0,
+              "twin": 1056.0,
+              "child": 411.84
+            }
+          },
+          "summer": {
+            "date_start": "2026-04-01",
+            "date_end": "2026-11-30",
+            "3star": {
+              "single": 1584.0,
+              "twin": 792.0,
+              "child": 308.88
+            },
+            "4star": {
+              "single": 2112.0,
+              "twin": 1056.0,
+              "child": 411.84
+            }
+          }
+        }
+      }
     }
   },
   "optionals": [
-    { "description": "Louvre Museum (Audioguide €5 pp)", "rate": 25, "currency": "EUR" },
-    { "description": "Versailles Palace admission ticket", "rate": 30, "currency": "EUR" },
-    { "description": "Grindelwald First (any 2 activities)", "rate": 116, "currency": "EUR" },
-    { "description": "Rhine Falls, 30 mins boat ride", "rate": 22, "currency": "EUR" },
-    { "description": "Lindt chocolate museum ticket", "rate": 20, "currency": "EUR" }
+    {
+      "description": "Louvre Museum (Audioguide \u20ac5 pp)",
+      "rate": 25,
+      "currency": "EUR"
+    },
+    {
+      "description": "Versailles Palace admission ticket",
+      "rate": 30,
+      "currency": "EUR"
+    },
+    {
+      "description": "Grindelwald First (any 2 activities)",
+      "rate": 116,
+      "currency": "EUR"
+    },
+    {
+      "description": "Rhine Falls, 30 mins boat ride",
+      "rate": 22,
+      "currency": "EUR"
+    },
+    {
+      "description": "Lindt chocolate museum ticket",
+      "rate": 20,
+      "currency": "EUR"
+    }
   ]
 }

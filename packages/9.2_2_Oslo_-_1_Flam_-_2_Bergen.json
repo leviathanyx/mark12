@@ -10,7 +10,7 @@
     {
       "label": "Winter",
       "start": "2025-11-01",
-      "date_end": "2026-03-31"
+      "end": "2026-03-31"
     },
     {
       "label": "Summer",
@@ -25,9 +25,9 @@
       "day_descriptions": {
         "Day 1": "Arrive Oslo. Norway's capital sits at the head of the Oslofjord. The Aker Brygge waterfront, Vigeland sculpture park and the Opera House rooftop reward an unhurried first evening.",
         "Day 2": "Oslo city tour. The Viking Ship Museum, the Fram polar exploration vessel, and Karl Johans gate. Afternoon at leisure.",
-        "Day 3": "Train from Oslo to Myrdal, then the Flåm Railway — one of the world's steepest and most spectacular railway journeys, descending 866 metres through waterfalls and mountain farms to the Aurlandsfjord. Overnight Flåm.",
-        "Day 4": "Fjord cruise from Flåm to Bergen through the Nærøyfjord, a UNESCO World Heritage site. Arrive Bergen. The Bryggen wharf, a row of medieval wooden buildings, is one of Scandinavia's most photographed sights.",
-        "Day 5": "Bergen at leisure — the Fløibanen funicular for panoramic views, the fish market, the old quarter. Depart.",
+        "Day 3": "Train from Oslo to Myrdal, then the Fl\u00e5m Railway \u2014 one of the world's steepest and most spectacular railway journeys, descending 866 metres through waterfalls and mountain farms to the Aurlandsfjord. Overnight Fl\u00e5m.",
+        "Day 4": "Fjord cruise from Fl\u00e5m to Bergen through the N\u00e6r\u00f8yfjord, a UNESCO World Heritage site. Arrive Bergen. The Bryggen wharf, a row of medieval wooden buildings, is one of Scandinavia's most photographed sights.",
+        "Day 5": "Bergen at leisure \u2014 the Fl\u00f8ibanen funicular for panoramic views, the fish market, the old quarter. Depart.",
         "Day 6": "Depart Bergen airport."
       },
       "pricing": {
@@ -36,28 +36,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         },
@@ -66,28 +66,28 @@
             "date_start": "2025-11-01",
             "date_end": "2026-03-31",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           },
           "summer": {
             "date_start": "2026-04-01",
             "date_end": "2026-11-30",
             "3star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             },
             "4star": {
-              "single": null,
-              "twin": null,
-              "child": null
+              "single": 0.0,
+              "twin": 0.0,
+              "child": 0.0
             }
           }
         }
@@ -95,5 +95,5 @@
     }
   },
   "optionals": [],
-  "description": "Oslo's fjord city, the Flåm Railway through the Aurlandsfjord and Bergen's colourful Bryggen wharf on a five-night Norway classic."
+  "description": "Oslo's fjord city, the Fl\u00e5m Railway through the Aurlandsfjord and Bergen's colourful Bryggen wharf on a five-night Norway classic."
 }

@@ -72,14 +72,14 @@
         "Standard": {}
       },
       "day_descriptions": {
-        "Day 1": "Arrive in Paris, the most romantic city in the world. A private transfer takes you to your hotel, followed by a free evening to stroll along the Seine.",
-        "Day 2": "Take a comprehensive city tour including the Eiffel Tower and a relaxing Seine cruise. See the Louvre and the Arc de Triomphe from the comfort of a luxury coach.",
-        "Day 3": "A day at leisure in Paris. Explore Montmartre's artist district or indulge in some high-end shopping at the Galeries Lafayette.",
-        "Day 4": "Bid adieu to Paris and board a high-speed train to Lucerne, Switzerland. Nestled on the shores of Lake Lucerne, this city is a mountain-lover's paradise.",
-        "Day 5": "Ascend the world's first revolving cable car to the summit of Mount Titlis. Enjoy snow and ice activities all year round before returning to Lucerne.",
-        "Day 6": "Spend a free day exploring Lucerne. Walk across the Chapel Bridge or take a leisurely boat trip on the crystal-clear waters of the lake.",
-        "Day 7": "Take a short train ride to Zurich, Switzerland's largest city and financial hub. Discover its charming Old Town (Altstadt) and vibrant lakeside promenades.",
-        "Day 8": "Enjoy a final morning in Zurich before your departure. Don't forget to pick up some world-famous Swiss chocolates!"
+        "Day 1": "Arrive at Paris Charles de Gaulle and skip the chaotic RER train for your private transfer directly to the Marais. This historic district, once the city's aristocratic heart, is now a vibrant blend of medieval architecture, chic boutiques, and hidden Jewish heritage. After settling into your hotel, wander to the Place des Vosges, the oldest planned square in Paris, and find a quiet corner under the vaulted arcades. Enjoy your first Parisian evening at a neighborhood bistro like Chez Janou, famous for its lively atmosphere and legendary chocolate mousse served from a massive shared bowl. The city of light awaits your discovery.",
+        "Day 2": "Instead of the crowded Eiffel Tower platforms, start your day at the Trocad\u00e9ro gardens for the best view of the Iron Lady as the sun hits the steel. Join a local-led walking tour of the hidden passages near the Palais Royal, where 19th-century elegance survives in boutique shops and historic bookstores. For lunch, head to the Enfants Rouges, the oldest covered market in Paris, to sample authentic street food from around the world alongside local Parisians. Spend your afternoon in the quiet gardens of the Mus\u00e9e Rodin, where the famous 'Thinker' sits among blooming roses and peaceful pathways, far from the city's bustle.",
+        "Day 3": "Today is for exploring the artistic soul of Montmartre, but beyond the caricaturists of Place du Tertre. Follow the winding backstreets to find the 'Lapin Agile' cabaret and the city's only remaining vineyard, the Clos Montmartre. Visit the Mus\u00e9e de la Vie Romantique, a hidden gem at the foot of the hill with a charming tea garden. In the evening, enjoy a sunset cruise on the Seine, but opt for a smaller, private boat that allows you to glide under the historic bridges with a glass of champagne, watching the city's monuments illuminate one by one in a spectacular display of light and shadow.",
+        "Day 4": "Board the sleek TGV Lyria at Gare de Lyon for a high-speed journey into the heart of Switzerland. As the train leaves the French countryside, watch through the panoramic windows as the landscape transforms into the dramatic peaks and crystal-clear lakes of the Swiss Alps. You'll arrive in Lucerne by mid-afternoon, where the iconic Chapel Bridge and the surrounding snow-capped mountains create a scene straight from a fairytale. After a short walk to your lakeside hotel, take a gentle stroll along the quay, enjoying the fresh alpine air and the sound of the lake lapping against the stone walls before a traditional Swiss dinner.",
+        "Day 5": "Ascend the heights of Mount Titlis via the world's first revolving cable car, the Titlis Rotair. At the summit, 3,020 meters above sea level, walk across the Cliff Walk, Europe's highest suspension bridge, for heart-stopping views of the glacier. After a morning of snow and ice, return to Lucerne and spend your afternoon exploring the local side of the city. Visit the Musegg Wall, the well-preserved medieval ramparts with nine historic towers that offer a panoramic view over the town and the lake. It's a favorite local spot for a quiet walk away from the main tourist squares in the old town.",
+        "Day 6": "Take a scenic boat trip across Lake Lucerne to the base of the B\u00fcrgenstock mountain. Instead of the luxury resort, take the historic funicular up to the ridge for a hike along the Felsenweg, a spectacular path carved into the cliff face. For lunch, find a remote mountain 'Gasthaus' for a plate of Alpine macaroni (\u00c4lplermagronen) with applesauce, a true local comfort dish. Return to Lucerne in the late afternoon and spend some time in the quiet courtyards of the Franciscan Church or browse the local craft shops in the narrow alleys of the Hirschenplatz. The evening is yours to enjoy the serene lakeside atmosphere.",
+        "Day 7": "A short, scenic train ride takes you to Zurich, Switzerland's sophisticated financial capital. While often seen as just a business hub, Zurich's Altstadt (Old Town) is a maze of charming streets and historic guild houses. Visit the Fraum\u00fcnster Church to see the stunning stained-glass windows by Marc Chagall, then head to the Lindenhof, a quiet hilltop park that was once a Roman fort and offers the best view over the Limmat River. Spend your afternoon in the trendy Zurich West district, where old shipping containers and industrial warehouses have been transformed into a vibrant hub of design, art, and local culinary innovation in the Viadukt market.",
+        "Day 8": "On your final morning in Switzerland, take a leisurely walk along the shores of Lake Zurich, watching the local rowing clubs and the distant Alps. Visit a local bakery for a fresh 'Gipfeli' (Swiss croissant) before heading to the world-famous Bahnhofstrasse for some last-minute shopping\u2014or simply to admire the high-end window displays. Your private transfer will then take you to Zurich International Airport for your flight home. As you depart, you'll reflect on a journey that took you from the romantic streets of Paris to the majestic peaks of the Swiss Alps, leaving you with a deep appreciation for the diverse beauty of Europe."
       }
     },
     "private": {
@@ -135,18 +135,20 @@
   "optionals": [],
   "description": "",
   "top_experiences": [
-    "Sunset at the Eiffel Tower",
-    "Cruise on Lake Lucerne",
-    "Chocolate tasting in Zurich"
+    "A sunset walk along the Promenade Plant\u00e9e, the world's first elevated park built on an old railway viaduct.",
+    "Exploring the hidden 'Passages Couverts'\u201419th-century glass-roofed shopping arcades tucked between buildings.",
+    "A private boat trip on Lake Lucerne to the tiny village of Bauen, accessible only by water or a single narrow road.",
+    "Dining at a 'Zunfthaus' (Guild House) in Zurich for a taste of medieval history and rich, traditional Swiss cuisine."
   ],
   "top_food": [
-    "Croissants in Paris",
-    "Cheese Fondue in Lucerne",
-    "Z\u00fcrcher Geschnetzeltes in Zurich"
+    "Freshly shucked oysters from a stall in the March\u00e9 d'Aligre, Paris.",
+    "Loz\u00e4rner Ch\u00fcgelipastete (a savory puff pastry filled with veal and mushrooms) in a traditional Lucerne tavern.",
+    "Luxemburgerli (miniature macarons) from the legendary Spr\u00fcngli on Zurich's Bahnhofstrasse.",
+    "Z\u00fcrcher Geschnetzeltes with crispy R\u00f6sti, the ultimate Zurich comfort food."
   ],
   "unique_highlights": [
-    "A romantic journey from the City of Light to the Swiss Alps",
-    "Panoramic train travel across international borders",
-    "Luxury stays in central 4-star hotels"
+    "Cross the border from France to Switzerland on the TGV Lyria, watching the landscape transition from vineyards to Alps.",
+    "Stay in a boutique hotel in Paris's Marais district, a neighborhood of medieval streets and hidden courtyards.",
+    "Exclusive access to a private chocolate atelier in Lucerne for a hands-on tasting and making session."
   ]
 }

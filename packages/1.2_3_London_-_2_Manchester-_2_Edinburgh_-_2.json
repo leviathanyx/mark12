@@ -90,6 +90,19 @@
       "pricing": {
         "Premium": {},
         "Standard": {}
+      },
+      "day_descriptions": {
+        "Day 1": "Upon arrival at London Heathrow, avoid the crowded Heathrow Express and settle into your private transfer that winds through the historic leafy suburbs of West London. Your journey concludes at a boutique hotel in the heart of Bloomsbury, a neighborhood famous for its literary history and quiet garden squares. After checking in, take a leisurely stroll to the nearby Lamb's Conduit Street, a refined local favorite for independent shops and cozy wine bars like Noble Rot. Spend your first evening soaking in the sophisticated yet understated atmosphere of intellectual London before a restful night's sleep in your elegant surroundings.",
+        "Day 2": "Instead of the standard tourist loop, use your flexible pass to head south of the river to the Borough Market early in the morning to catch the local traders before the crowds arrive. Sample artisanal cheeses and freshly baked sourdough before hopping on a Thames Clipper\u2014the local's river bus\u2014to glide past the Tower of London towards Greenwich. Spend the afternoon exploring the painted hall at the Old Royal Naval College, often called Britain's Sistine Chapel. End your day with a sunset walk up to the Royal Observatory for a panoramic view of the Canary Wharf skyline glowing across the water.",
+        "Day 3": "Today is about the hidden side of the West End. Start with a visit to the Sir John Soane's Museum in Lincoln's Inn Fields, an eccentric treasure trove of art and antiquities that remains exactly as the architect left it in 1837. Later, wander through the historic Seven Dials neighborhood, ducking into Neal's Yard for a burst of color and a healthy lunch at one of the hidden cafes. As evening approaches, find your way to a traditional candlelit pub in Soho, like The French House, where half-pints are the tradition and the walls are steeped in the history of bohemians and writers.",
+        "Day 4": "Board a high-speed Avanti West Coast train at Euston Station, leaving the capital behind for the industrial-cool vibe of Manchester. The journey takes you through the rolling green hills of the Midlands, arriving at Manchester Piccadilly in just over two hours. After a short transfer to your hotel, head straight for the Northern Quarter. This isn't the Manchester of postcards; it's a grid of red-brick warehouses filled with record stores, independent galleries, and the iconic Afflecks Palace. Spend your afternoon uncovering street art in the back alleys and enjoying a craft beer at a local brewery taproom like Cloudwater or Northern Monk.",
+        "Day 5": "Dedicate your morning to the People's History Museum, a deeply moving look at the cradle of British democracy and the labor movement, located in a beautifully restored Edwardian pump house. For lunch, skip the chains and head to the Armenian Taverna, a subterranean local gem that has been serving authentic khorovadz and khinkali for over fifty years. In the afternoon, take a short tram ride to the Salford Quays to see The Lowry and the Imperial War Museum North, marveling at the futuristic architecture of MediaCityUK. Finish the day with a walk along the canals of Castlefield, where Roman ruins meet Victorian viaducts.",
+        "Day 6": "Travel north by rail through the dramatic landscapes of the Lake District and the Scottish Borders, arriving in Edinburgh, the 'Athens of the North.' As your train pulls into Waverley Station, the sight of the Scott Monument and the craggy heights of Arthur's Seat will take your breath away. After checking into your hotel, avoid the Royal Mile's tourist shops and head instead to the New Town. Walk along the elegant Georgian terraces of Queen Street and discover the hidden Dean Village, a former grain milling hamlet nestled in a deep valley by the Water of Leith, feeling worlds away from the city center.",
+        "Day 7": "Start your day with a hike up the Salisbury Crags for a rugged perspective of the city without the crowds of the main castle. Descend into the Southside neighborhood for a traditional Scottish breakfast at a local 'greasy spoon' before visiting the Surgeons' Hall Museums, one of the oldest and most fascinating medical collections in the world. Spend your afternoon in the neighborhood of Stockbridge, browsing the local Sunday market or visiting the botanical gardens. In the evening, head to a traditional folk bar like Sandy Bell's for a 'wee dram' and the chance to hear authentic live Scottish fiddle music in an intimate setting.",
+        "Day 8": "Journey into the true heart of the Highlands as you board the train for Inverness. This route is one of the most scenic in Britain, passing through the wild Cairngorms National Park where you might spot red deer from your window. Upon arrival in Inverness, the Highland capital, take a walk along the Ness Islands, a series of small, wooded islands connected by Victorian footbridges in the middle of the River Ness. It's a favorite local spot for a quiet evening stroll. Enjoy dinner at a riverside bistro featuring locally caught salmon or Highland venison before retiring to your comfortable hotel.",
+        "Day 9": "Today's excursion takes you across the bridge to the misty Isle of Skye. While many tourists rush the main sites, your guide will take you to the quieter corners of the island, perhaps a hidden fairy pool or a remote coastal lookout where the Cuillin mountains drop dramatically into the Atlantic. Visit the iconic Eilean Donan Castle on the way back, but take time to explore the small village of Plockton nearby, known as the 'Jewel of the Highlands' for its palm trees and sheltered bay. This long day in the wild will leave you with a profound sense of Scotland's ancient and rugged soul.",
+        "Day 10": "Take the scenic train south to Glasgow, Scotland's largest and most vibrant city. Often overlooked in favor of Edinburgh, Glasgow offers a gritty, authentic charm and world-class Victorian architecture. Visit the Kelvingrove Art Gallery and Museum, a stunning red sandstone building housing everything from a Spitfire to a Salvador Dal\u00ed masterpiece. Spend your afternoon in the West End, exploring the cobbled lanes of Ashton Lane and the sprawling grounds of the University of Glasgow, which looks remarkably like Hogwarts. Enjoy a final Scottish feast in a Finnieston restaurant, the city's coolest foodie hub, before your final night in Scotland.",
+        "Day 11": "Enjoy a final morning in Glasgow, perhaps visiting the Willow Tea Rooms designed by the legendary Charles Rennie Mackintosh for a truly authentic Glaswegian experience. Browse the independent shops of the Merchant City before your private transfer takes you to Glasgow International Airport. As you fly home, you'll carry memories not just of the famous landmarks, but of the quiet canal walks, the hidden basement restaurants, and the rugged, mist-covered landscapes that define the true spirit of the United Kingdom and Scotland. Safe travels on your journey home, and we hope to see you back in the Highlands soon."
       }
     },
     "private": {
@@ -143,5 +156,22 @@
     }
   },
   "optionals": [],
-  "description": ""
+  "description": "",
+  "top_experiences": [
+    "A Friday night at The Tamil Prince in Islington for the best desi-pub food in London.",
+    "Exploring the Victorian sewers and the Crossness Pumping Station (The Cathedral on the Marsh).",
+    "A pint and a pie at The Old Wellington, Manchester's oldest building, tucked next to modern skyscrapers.",
+    "Hiking the Water of Leith Walkway in Edinburgh for a serene forest escape within the city."
+  ],
+  "top_food": [
+    "Deep-fried Mars Bar at a local Edinburgh chippy (it's a real local dare).",
+    "Bury Black Pudding from a traditional market stall in Manchester.",
+    "Salt Beef Bagel from Beigel Bake on Brick Lane, London (open 24/7).",
+    "Cullen Skink (creamy smoked haddock soup) at a quiet Leith waterfront bistro."
+  ],
+  "unique_highlights": [
+    "Travel by the 'Flying Scotsman' route along the rugged East Coast rail line.",
+    "Stay in a converted Victorian townhouse in the heart of Manchester's Northern Quarter.",
+    "Private 'Black Cab' tour of London's hidden legal inns and secret courtyards."
+  ]
 }

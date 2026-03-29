@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ pkg.title }} - Europe Incoming Brochure</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        @media print {
+            .no-print { display: none !important; }
+            .print-break-after { page-break-after: always; }
+            .print-break-before { page-break-before: always; }
+            .shadow-sm, .shadow-xl { box-shadow: none !important; }
+            .border { border: 1px solid #e5e7eb !important; }
+            body { background: white; color: black; }
+        }
+    </style>
+</head>
+<body class="bg-white text-gray-900 leading-relaxed">
+    <header class="no-print bg-white/90 backdrop-blur-md border-b border-gray-100 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+            <a href="../index.html" class="flex items-center text-sm font-bold tracking-widest text-black">
+                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                BACK TO TOURS
+            </a>
+            <button onclick="window.print()" class="bg-black text-white px-6 py-2 rounded-full text-xs font-extrabold tracking-widest hover:bg-gray-800 transition-colors uppercase">
+                DOWNLOAD BROCHURE (PDF)
+            </button>
+        </div>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-6 py-12 lg:py-24">
+        <!-- Hero Section -->
+        <section class="mb-20">
+            <div class="mb-8">
+                <span class="text-xs font-bold uppercase tracking-[0.3em] text-blue-600 mb-4 block">{{ pkg.region.replace('-', ' ') }} &bull; {{ pkg.nights }} NIGHTS</span>
+                <h1 class="text-5xl lg:text-7xl font-extrabold tracking-tighter text-black leading-none mb-6">{{ pkg.title }}</h1>
+                <p class="text-xl lg:text-2xl text-gray-500 font-medium leading-relaxed max-w-3xl">
+                    {{ pkg.description or "An unforgettable journey through Europe's most captivating cities and hidden treasures, crafted for the discerning traveler." }}
+                </p>
+            </div>
+            <div class="aspect-[21/9] rounded-3xl overflow-hidden shadow-2xl relative">
+                <img src="https://source.unsplash.com/1600x900/?{{ pkg.title.split(' ')[-1] }},travel" alt="{{ pkg.title }}" class="w-full h-full object-cover">
+            </div>
+        </section>
+
+        <!-- Highlights & Food -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-16 mb-24">
+            {% if pkg.top_experiences %}
+            <div>
+                <h3 class="text-xs font-bold uppercase tracking-[0.3em] text-gray-400 mb-6">TOP EXPERIENCES</h3>
+                <ul class="space-y-4">
+                    {% for exp in pkg.top_experiences %}
+                    <li class="flex items-start">
+                        <span class="w-6 h-6 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mr-4 mt-0.5 text-xs font-bold">✓</span>
+                        <span class="text-lg font-semibold">{{ exp }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% if pkg.top_food %}
+            <div>
+                <h3 class="text-xs font-bold uppercase tracking-[0.3em] text-gray-400 mb-6">LOCAL FLAVORS</h3>
+                <div class="flex flex-wrap gap-3">
+                    {% for food in pkg.top_food %}
+                    <span class="bg-gray-100 text-gray-900 px-4 py-2 rounded-xl text-sm font-bold uppercase tracking-wider">{{ food }}</span>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Itinerary -->
+        <section class="mb-24 print-break-before">
+            <h2 class="text-4xl font-extrabold tracking-tight mb-12 border-b-4 border-black inline-block pb-2">Your Itinerary</h2>
+            <div class="space-y-16">
+                {% set day_descs = pkg.variants.regular_fit.get('day_descriptions', {}) if pkg.variants.regular_fit else {} %}
+                {% set days = (pkg.nights + 1) %}
+                {% for i in range(1, days + 1) %}
+                {% set day_key = "Day " ~ i %}
+                <div class="flex flex-col md:flex-row gap-8 lg:gap-12 group">
+                    <div class="md:w-32 flex-shrink-0">
+                        <span class="text-6xl font-black text-gray-100 group-hover:text-blue-500 transition-colors leading-none block mb-2">{{ "%02d"|format(i) }}</span>
+                        <span class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400">DAY</span>
+                    </div>
+                    <div class="flex-grow">
+                        <h4 class="text-2xl font-bold mb-4">{{ day_key }}</h4>
+                        <p class="text-lg text-gray-600 leading-relaxed mb-6">
+                            {{ day_descs[day_key] or "A beautiful day exploring local culture and scenery." }}
+                        </p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- Hotels -->
+        <section class="mb-24 print-break-before">
+            <h2 class="text-3xl font-extrabold tracking-tight mb-8">Envisaged Hotels</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                {% for hotel in pkg.hotels %}
+                <div class="border border-gray-100 rounded-3xl p-8 bg-gray-50 hover:bg-white hover:shadow-xl transition-all">
+                    <h5 class="text-xs font-bold uppercase tracking-widest text-blue-600 mb-2">{{ hotel.city }} &bull; {{ hotel.nights }} NIGHTS</h5>
+                    <div class="space-y-4">
+                        <div>
+                            <span class="text-xs font-bold text-gray-400 uppercase tracking-widest block mb-1">STANDARD OPTION</span>
+                            <p class="text-lg font-bold">{{ hotel.hotel_3star }}</p>
+                        </div>
+                        <div>
+                            <span class="text-xs font-bold text-gray-400 uppercase tracking-widest block mb-1">PREMIUM OPTION</span>
+                            <p class="text-lg font-bold">{{ hotel.hotel_4star }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- Pricing -->
+        <section class="print-break-before">
+            <h2 class="text-4xl font-extrabold tracking-tight mb-12">Price Summary</h2>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                {% for season in ['summer', 'winter'] %}
+                {% if pricing.regular_fit[season] %}
+                <div class="border-2 border-black rounded-[2rem] p-10 bg-white">
+                    <h3 class="text-xs font-extrabold uppercase tracking-[0.4em] text-gray-400 mb-8">{{ season }} SEASON PRICE</h3>
+
+                    <div class="space-y-8">
+                        <div>
+                            <h4 class="text-lg font-bold border-b border-gray-100 pb-2 mb-6 uppercase tracking-widest text-blue-600">3-Star Package</h4>
+                            <div class="flex justify-between items-end">
+                                <div>
+                                    <span class="text-xs font-bold text-gray-400 block uppercase">PER PERSON</span>
+                                    <span class="text-4xl font-black">{{ pricing.currency }} {{ "{:,.0f}".format(pricing.regular_fit[season]['3star'].twin) }}</span>
+                                </div>
+                                <div class="text-right">
+                                    <span class="text-xs font-bold text-gray-400 block uppercase">CHILD RATE</span>
+                                    <span class="text-xl font-bold">{{ pricing.currency }} {{ "{:,.0f}".format(pricing.regular_fit[season]['3star'].child) }}</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <h4 class="text-lg font-bold border-b border-gray-100 pb-2 mb-6 uppercase tracking-widest text-blue-600">4-Star Package</h4>
+                            <div class="flex justify-between items-end">
+                                <div>
+                                    <span class="text-xs font-bold text-gray-400 block uppercase">PER PERSON</span>
+                                    <span class="text-4xl font-black">{{ pricing.currency }} {{ "{:,.0f}".format(pricing.regular_fit[season]['4star'].twin) }}</span>
+                                </div>
+                                <div class="text-right">
+                                    <span class="text-xs font-bold text-gray-400 block uppercase">CHILD RATE</span>
+                                    <span class="text-xl font-bold">{{ pricing.currency }} {{ "{:,.0f}".format(pricing.regular_fit[season]['4star'].child) }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+            <p class="mt-8 text-sm text-gray-400 text-center font-medium italic">
+                * Prices are starting from rates. Single supplements apply. Terms & conditions of Europe Incoming apply.
+            </p>
+        </section>
+    </main>
+
+    <footer class="bg-black text-white py-20 mt-20 no-print">
+        <div class="max-w-5xl mx-auto px-6 text-center">
+            <h2 class="text-3xl font-extrabold mb-8 tracking-tighter">Ready for your European adventure?</h2>
+            <a href="mailto:fitsales@europeincoming.com" class="inline-block bg-white text-black px-12 py-4 rounded-full text-xs font-black tracking-widest hover:bg-blue-500 hover:text-white transition-all uppercase">
+                CONTACT OUR TEAM
+            </a>
+            <p class="mt-12 text-gray-500 text-sm font-medium">© 2024 Europe Incoming. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

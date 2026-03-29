@@ -21,7 +21,7 @@
     {
       "city": "Tromso",
       "nights": 4,
-      "hotel_3star": "Scandic Grand Tromsø",
+      "hotel_3star": "Scandic Grand Troms\u00f8",
       "hotel_4star": "Clarion Hotel The Edge",
       "rate_type": "PI",
       "rate_3star": 1120.0,
@@ -48,7 +48,7 @@
         },
         {
           "day": "Day 2",
-          "description": "Tromsø Island Tour with Arctic Cathedral",
+          "description": "Troms\u00f8 Island Tour with Arctic Cathedral",
           "rate_type": "PP",
           "rate": 1500.0,
           "currency": "NOK"
@@ -85,9 +85,33 @@
       "pricing": {
         "Premium": {},
         "Standard": {}
+      },
+      "day_descriptions": {
+        "Day 1": "Arrive in Troms\u00f8, a city nestled among majestic fjords and snow-capped peaks deep within the Arctic Circle. After your private transfer to your central hotel, head to the quayside to see the historic wooden houses that have survived centuries of Arctic winters. As darkness falls, embark on a Northern Lights Cruise. Unlike the crowded bus tours, this small boat glides silently away from the city lights, providing a peaceful and stable platform for witnessing the Aurora Borealis dancing across the dark Arctic sky. Enjoy a hot bowl of traditional reindeer soup on deck while the captain shares tales of the sea and the magical lights above.",
+        "Day 2": "Explore Troms\u00f8 Island on a guided tour that goes beyond the main sights. Visit the Arctic Cathedral with its stunning glass mosaic, then head to the Southern tip of the island to walk through the Telegrafbukta park, a favorite local spot for seeing the winter sun struggle to rise above the horizon. In the afternoon, prepare for a Night Reindeer Sledding adventure. You'll travel to a remote Sami camp where you'll be greeted by a local family. After a traditional meal in a 'Lavvu' (Sami tent) around a roaring fire, experience the silent magic of reindeer sledding through the frozen wilderness under a canopy of stars and, if luck is with you, the glowing green Aurora.",
+        "Day 3": "Today is for high-octane adventure as you head out on a Snowmobile Safari. You'll be driven into the heart of the Lyngen Alps, where the mountains rise vertically from the deep blue fjords. After a safety briefing, you'll pilot your snowmobile across frozen lakes and through snow-covered forests, reaching high plateaus with breathtaking panoramic views. This is the true Arctic wilderness, far from any roads or buildings. For lunch, enjoy a simple but hearty meal prepared over an open fire in the snow before heading back to Troms\u00f8 for a relaxing evening in one of the city's cozy cafes, perhaps sampling a local Arctic craft beer.",
+        "Day 4": "Set sail on a Whale Watching tour to witness the ocean's giants in their natural habitat. During the winter months, humpback whales and orcas follow the herring into the fjords surrounding Troms\u00f8. This responsible tour uses a silent electric engine to minimize disturbance to the animals, allowing for a truly intimate and respectful encounter. Spend your afternoon at the Polar Museum, housed in a 19th-century wharf house, which tells the gripping stories of Arctic explorers and seal hunters. For your final dinner in the north, head to Fiskekompaniet for the freshest seasonal seafood, including the legendary Arctic king crab, served with a modern Norwegian twist.",
+        "Day 5": "Enjoy a final Arctic morning in Troms\u00f8. Take a ride on the Fjellheisen cable car to the top of Mount Storsteinen for a last, spectacular view of the city, the islands, and the surrounding mountains bathed in the soft, ethereal light of the polar winter. Browse the local shops for authentic Sami silver jewelry or high-quality Norwegian woolens before your private transfer takes you to Troms\u00f8 Airport. As you fly south, you'll carry with you the profound silence of the frozen fjords and the memory of the lights that dance in the northern sky, a journey that has touched the very soul of the Arctic."
       }
     }
   },
   "optionals": [],
-  "description": ""
+  "description": "",
+  "top_experiences": [
+    "A Friday night at Bardus Bistro, where the menu changes weekly based on what the local fishermen bring in.",
+    "A visit to the 'Polaria' aquarium to see the bearded seals, followed by a local brew at Mack's, the world's northernmost brewery.",
+    "An evening 'Aurora Chase' with a small, local guide who uses satellite data to find the clearest skies far from any tourists.",
+    "Exploring the Arctic-Alpine Botanical Garden, the world's northernmost, even in the middle of a snowy winter."
+  ],
+  "top_food": [
+    "T\u00f8rrfisk (dried cod) prepared in the traditional northern style with bacon and pea puree.",
+    "Reindeer burger at Bardus\u2014a local culinary 'must have' for any visitor to the north.",
+    "King Crab fresh from the Barents Sea, served simply with lemon and homemade mayonnaise.",
+    "M\u00f8lje\u2014a traditional winter dish of cod, liver, and roe that is the soul of northern Norwegian coastal culture."
+  ],
+  "unique_highlights": [
+    "Stay in a traditional 'Rorbu' (fisherman's cabin) converted into a cozy, high-end Arctic retreat.",
+    "Cross the Arctic Circle by air and feel the immediate change in the light and the crispness of the air.",
+    "A private visit to a Sami family's winter camp for an authentic exchange about life in the extreme north."
+  ]
 }
